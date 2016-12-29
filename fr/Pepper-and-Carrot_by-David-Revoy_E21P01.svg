@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.30245748"
+     inkscape:cx="904.25378"
+     inkscape:cy="1530.3424"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1738.2495,1878.762 c 2.2941,-36.5376 15.0984,-82.3219 212.4347,-73.9273 187.1022,7.9595 228.6607,28.1982 228.3643,80.1336 -0.4919,86.21 -89.3796,84.1336 -221.1191,90.1868 -135.8092,6.2405 -221.7877,-43.8796 -219.6799,-96.3931 z"
+       id="path3280-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2076.1804,1829.6694 c -26.523,-38.9486 22.1793,-82.9102 62.2368,-107.1138 -60.126,20.8618 -97.9759,46.9215 -108.7763,97.963 -22.6225,106.9106 -3.8637,115.1828 -3.8637,115.1828 z"
+       id="path4064"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 254.46388,2805.4358 c -1.0506,-25.5539 17.8603,-42.9306 28.3664,-51.1078 10.5062,-8.1773 76.69471,-26.5761 100.85881,-26.5761 24.164,0 123.972,18.3988 141.8324,36.7977 17.8604,18.3988 40.9738,18.3988 29.4172,49.0635 -11.5568,30.6647 -84.0489,45.9971 -99.8081,49.0635 -15.7592,3.0665 -60.9355,5.1108 -75.6441,4.0887 -14.7085,-1.0222 -128.17441,-19.421 -125.02261,-61.3295 z"
+       id="path3357"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 622.60646,2851.4317 c -29.52729,11.0277 -36.73796,4.4168 -44.3379,-3.8065 -7.6001,-8.2234 -13.59659,-16.5562 -20.85311,-16.6078 -7.2563,-0.052 -16.07822,4.1011 -22.22747,8.0715 -6.14938,3.9704 -9.22877,-4.9574 -15.47471,-9.4487 -6.24606,-4.4913 -46.54739,-15.2794 -46.54739,-15.2794 0,0 14.96575,27.663 22.19679,34.5457 7.23084,6.8827 9.83976,9.4365 13.47678,11.374 3.63722,1.9375 13.29626,5.3766 20.63677,2.9639 7.34049,-2.4127 13.08014,-8.2675 18.22146,-11.3497 5.14131,-3.0822 11.97017,2.4814 19.0586,7.4616 7.08835,4.9804 13.05087,7.4384 27.48047,5.0324 12.36886,-2.0623 28.36971,-12.957 28.36971,-12.957 z"
+       id="path3023-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.89954185px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="-85.733765"
+       y="1799.179"
+       id="text4246"
+       sodipodi:linespacing="127%"
+       transform="matrix(1.0195605,-0.33778484,0.4782208,0.82237814,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.54032898px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:1.15829515;stroke-opacity:1;line-height:127%"
+         x="-85.733757"
+         y="1799.179"
+         id="tspan4252">Après le concours de potion</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.54032898px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:1.15829515;stroke-opacity:1;line-height:127%"
+         x="-85.73378"
+         y="1849.8544"
+         id="tspan4170">La ville de Komona présente le</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.49771118px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:1.15829515;stroke-opacity:1"
+         x="-85.733757"
+         y="1926.8407"
+         id="tspan4172">Concours de Magie!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00290298px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.9849999;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1073.4714"
+       y="2882.3591"
+       id="text4246-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99569444,-0.53996382,0.07226476,0.96513509,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.01451111px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.17136621;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1073.4714"
+         y="2882.3591"
+         id="tspan4217">Grand Prix de 50 000Ko</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.01451111px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.17136621;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1073.4714"
+         y="2944.8772"
+         id="tspan4207" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.01451111px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.17136621;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1073.4714"
+         y="3007.3955"
+         id="tspan4209" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26961136px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="-172.0735"
+       y="2843.1523"
+       id="text4246-5-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.95099496,-0.52865591,0.52459712,0.75990796,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.62337494px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="2843.1523"
+         id="tspan4203-1">Pour la plus impressionante</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.34805298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.07352"
+         y="2898.4502"
+         id="tspan4211-0">démonstration magique!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.03636551px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="2956.3853"
+         id="tspan4213-6"></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.03636551px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="2996.7737"
+         id="tspan4296">Entrée 150Ko</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.03636551px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-168.77316"
+         y="3030.5691"
+         id="tspan4215-8">Nouvelle arène géante et sécurisé </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.03636551px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="3064.3645"
+         id="tspan4292">Komona</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.03636551px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="3098.1599"
+         id="tspan4217-7">Azarday, 10 AirMoon</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.34805298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="3131.9556"
+         id="tspan4207-4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.34805298px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.77246761;stroke-opacity:1"
+         x="-172.0735"
+         y="3165.751"
+         id="tspan4209-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1962.5621"
+       y="1878.5922"
+       id="text4246-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1962.5621"
+         y="1878.5922"
+         id="tspan4252-4">C'est bon Carrot,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1962.5621"
+         y="1934.8422"
+         id="tspan4306">je suis prête.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="411.90872"
+       y="2814.5632"
+       id="text4246-2-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="411.90872"
+         y="2814.5632"
+         id="tspan4306-2">Attends...</tspan></text>
+  </g>
+</svg>
