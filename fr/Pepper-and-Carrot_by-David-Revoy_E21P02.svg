@@ -158,30 +158,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60835002"
      inkscape:cx="1170.3653"
-     inkscape:cy="2498.1443"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:cy="1315.8237"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -296,22 +296,16 @@
          id="tspan4196">LEURS IMPÔTS </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202-2)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78128049px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202-2);writing-mode:lr;"
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,125.17722,215.40238)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1131.04"
-         y="1300.7131"
-         id="tspan4196-7">VENTE À GUICHET FERMÉ: LE SUCCÈS</tspan><tspan
+         id="tspan3409">VENTE À GUICHET FERMÉ : LE SUCCÈS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1131.04"
-         y="1314.1898"
-         id="tspan4282">AU RENDEZ-VOUS! </tspan></text>
+         id="tspan3411">AU RENDEZ-VOUS ! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4325)"
@@ -377,7 +371,7 @@
          style="font-size:45px"
          x="485.63678"
          y="631.14081"
-         id="tspan4150"> avec moi?</tspan></text>
+         id="tspan4150"> avec moi ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -399,7 +393,7 @@
          style="font-size:45px"
          x="580.04688"
          y="968.75879"
-         id="tspan4187">pas du spectacle!</tspan></text>
+         id="tspan4187">pas du spectacle !</tspan></text>
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 1935.6939,2123.6849 c -2.2769,-23.3922 12.8251,-35.0287 26.5755,-40.541 17.4266,-6.9861 143.1405,-14.7723 158.3105,4.8085 13.9712,18.0333 23.8975,51.1875 -17.8203,67.5649 -41.718,16.3773 -111.3422,7.4067 -123.194,4.429 -11.8516,-2.9777 -41.5014,-10.951 -43.8717,-36.2614 z"
@@ -454,7 +448,7 @@
          style="font-size:45px"
          x="1131.7324"
          y="2038.0157"
-         id="tspan4412">participer!</tspan></text>
+         id="tspan4412">participer !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
@@ -471,18 +465,17 @@
          style="font-size:45px;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1261.5112"
          y="2179.2383"
-         id="tspan4452">promis!</tspan></text>
+         id="tspan4452">Promis !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        x="1411.5112"
-       y="2235.4883"
+       y="2241.4883"
        id="text4246-2-3-1-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         id="tspan3413"
          x="1411.5112"
-         y="2235.4883"
-         id="tspan4412-2">A ce soir!</tspan></text>
+         y="2241.4883">À ce soir !</tspan></text>
   </g>
 </svg>
