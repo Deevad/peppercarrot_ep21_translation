@@ -337,16 +337,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1250"
-     inkscape:window-height="1040"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26300649"
-     inkscape:cx="1510.1893"
-     inkscape:cy="1366.1294"
-     inkscape:window-x="2586"
-     inkscape:window-y="22"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.52601298"
+     inkscape:cx="1237.2911"
+     inkscape:cy="1124.4031"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -354,13 +354,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P04.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P04.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P04.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -414,59 +414,68 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 770.27395,191.02146 c -31.2356,-5.30079 -63.74211,-5.2897 -93.50099,-16.76219 l 17.85066,23.71504 c -12.766,2.30254 -25.01462,-4.00803 -37.43903,-7.39398 l 8.72795,16.81074 c -30.17546,5.02255 -56.7024,-4.03601 -84.99273,-6.28865 l 17.40305,27.83783 c 28.98486,-1.50672 57.57973,-8.26046 87.00319,-3.86524 l -6.95438,-17.46852 c 10.40714,-0.0894 20.81848,0.28687 31.24887,2.74337 l -10.5455,-20.97267 z"
+       d="m 794.98817,191.02146 c -31.2356,-5.30079 -63.74211,-5.2897 -93.50099,-16.76219 l 17.85066,23.71504 c -12.766,2.30254 -25.01462,-4.00803 -37.43903,-7.39398 l 8.72795,16.81074 c -30.17546,5.02255 -56.7024,-4.03601 -84.99273,-6.28865 l 17.40305,27.83783 c 28.98486,-1.50672 57.57973,-8.26046 87.00319,-3.86524 l -6.95438,-17.46852 c 10.40714,-0.0894 20.81848,0.28687 31.24887,2.74337 l -10.5455,-20.97267 z"
        id="path4032"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8"
-       width="506.35226"
-       height="205.7364"
+       width="542.47302"
+       height="255.16484"
        x="127.50768"
        y="126.61604"
-       ry="51.769714" />
+       ry="64.207458" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 239.31624,299.80846 c -8.67947,18.40711 -57.63271,19.95061 -75.65379,16.20911 36.3263,20.5918 35.05986,33.3858 -14.26091,35.3724 82.71175,37.1119 15.12077,31.496 1.78884,40.9065 64.94419,12.7896 35.8875,28.7065 24.32534,44.5515 74.6467,0.5443 50.21823,25.9434 53.36452,46.17215 6.32817,-9.4922 36.39195,-38.39075 38.20089,-6.2142 49.37452,-30.69815 108.8449,-50.52775 113.56704,3.1943 19.89375,-27.02615 39.72795,-38.44845 38.20105,-6.2142 49.2908,-41.92455 108.3514,-36.42575 157.1273,-5.3922 -25.2127,-23.31165 -5.9187,-41.68585 31.9421,-37.13025 -5.3085,-12.5422 7.4749,-21.1637 36.3441,-26.2835 -38.3625,-7.5763 -45.4326,-15.3912 25.7981,-23.8012 -54.2025,-0.8135 -104.7466,-2.4802 -41.1554,-31.1607 -19.9503,-0.694 -67.2845,23.2379 -45.2155,-46.7992 -34.3057,22.4213 -70.9068,34.7962 -116.808,-12.17081 -21.7227,23.46381 -59.4003,35.07461 -75.792,5.7665 -5.8914,12.49461 -30.32079,17.19361 -51.05925,17.76341 -8.0196,-4.9631 -16.29104,-11.7041 -24.9226,-20.53611 -14.10739,18.54471 -35.21068,31.06901 -75.79183,5.7665 z"
+       d="m 243.11843,339.73143 c -8.67947,18.40711 -57.63271,19.95061 -75.65379,16.20911 36.3263,20.5918 35.05986,33.3858 -14.26091,35.3724 82.71175,37.1119 15.12077,31.496 1.78884,40.9065 64.94419,12.7896 35.8875,28.7065 24.32534,44.5515 74.6467,0.5443 50.21823,25.9434 53.36452,46.17215 6.32817,-9.4922 36.39195,-38.39075 38.20089,-6.2142 49.37452,-30.69815 108.8449,-50.52775 113.56704,3.1943 19.89375,-27.02615 39.72795,-38.44845 38.20105,-6.2142 49.2908,-41.92455 108.3514,-36.42575 157.1273,-5.3922 -25.2127,-23.31165 -5.9187,-41.68585 31.9421,-37.13025 -5.3085,-12.5422 7.4749,-21.1637 36.3441,-26.2835 -38.3625,-7.5763 -45.4326,-15.3912 25.7981,-23.8012 -54.2025,-0.8135 -104.7466,-2.4802 -41.1554,-31.1607 -19.9503,-0.694 -67.2845,23.2379 -45.2155,-46.7992 -34.3057,22.4213 -70.9068,34.7962 -116.808,-12.17081 -21.7227,23.46381 -59.4003,35.07461 -75.792,5.7665 -5.8914,12.49461 -30.32079,17.19361 -51.05925,17.76341 -8.0196,-4.9631 -16.29104,-11.7041 -24.9226,-20.53611 -14.10739,18.54471 -35.21068,31.06901 -75.79183,5.7665 z"
        id="path3549-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.30239105px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.5321846;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="456.17734"
-       y="384.41257"
+       x="469.90887"
+       y="427.2261"
        id="text4246-2-3-1-3-9-3-7-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.93835319,0,-0.12334078,1.0656968,0,0)"><tspan
          sodipodi:role="line"
          style="font-size:61.13397217px;stroke:#000000;stroke-width:3.5321846;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="456.17734"
-         y="384.41257"
+         x="469.90887"
+         y="427.2261"
          id="tspan4814-3"> CORIANDRE !</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="383.40439"
-       y="188.64041"
-       id="text4246-2-3-1-3-9-3-7-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="383.40439"
+    <g
+       id="g3474"
+       transform="translate(7.6043751,-5.7032813)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4246-2-3-1-3-9-3-7-6"
          y="188.64041"
-         id="tspan4189">De la magie noire de</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="383.40439"
-         y="244.8904"
-         id="tspan4173">&quot;Zombiah&quot;, nous avons</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="383.40439"
-         y="301.14038"
-         id="tspan4175">l'honneur d'acceuillir...</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           id="tspan4175"
+           y="188.64041"
+           x="383.40439"
+           style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:role="line">Adepte de la magie</tspan><tspan
+           id="tspan3470"
+           y="244.89041"
+           x="383.40439"
+           style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:role="line">mortellement revivifiante</tspan><tspan
+           id="tspan3472"
+           y="301.14041"
+           x="383.40439"
+           style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:role="line">de &quot;Zombiah&quot;, nous avons</tspan><tspan
+           y="357.39041"
+           x="383.40439"
+           style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+           sodipodi:role="line"
+           id="tspan3480">l'honneur d'accueillir...</tspan></text>
+    </g>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1670.154,197.95338 c 31.2356,-5.30079 63.7421,-5.2897 93.501,-16.76219 l -17.8507,23.71504 c 12.766,2.30254 25.0146,-4.00803 37.439,-7.39398 l -8.7279,16.81074 c 30.1754,5.02255 56.7024,-4.03601 84.9927,-6.28865 l -17.403,27.83783 c -28.9849,-1.50672 -57.5798,-8.26046 -87.0032,-3.86524 l 6.9544,-17.46852 c -10.4072,-0.0894 -20.8185,0.28687 -31.2489,2.74337 l 10.5455,-20.97267 z"
@@ -512,7 +521,7 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2070.6387"
          y="189.82233"
-         id="tspan4175-9">La faune, la flore n'a</tspan><tspan
+         id="tspan4175-9">La faune et la flore n'ont</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2070.6387"
@@ -522,12 +531,12 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2070.6387"
          y="302.32233"
-         id="tspan4199">sorcière d' &quot;Hippiah&quot;,</tspan><tspan
+         id="tspan4199">sorcière d'&quot;Hippiah&quot; !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2070.6387"
          y="358.57233"
-         id="tspan4201">veuillez applaudir...</tspan></text>
+         id="tspan4201">Veuillez applaudir...</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1"
@@ -548,22 +557,22 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="398.0332"
          y="1652.3436"
-         id="tspan4242">Surprise à présent des</tspan><tspan
+         id="tspan4250">Et maintenant, grâce</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="398.0332"
          y="1708.5936"
-         id="tspan4246">ingénieurs de Komona</tspan><tspan
+         id="tspan3491">aux prouesses techniques</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="398.0332"
+         x="405.94336"
          y="1764.8436"
-         id="tspan4248">(que je salue ici) voici, en</tspan><tspan
+         id="tspan3493">de Komona, voici, en </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="398.0332"
+         x="405.94336"
          y="1821.0936"
-         id="tspan4250">exclusivité mondiale...</tspan></text>
+         id="tspan3495">exclusivité mondiale... </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
@@ -740,61 +749,61 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-6"
-       width="560.97729"
+       width="612.30688"
        height="204.36139"
-       x="832.72339"
+       x="834.62451"
        y="2094.2979"
        ry="51.769718"
-       rx="51.769714" />
+       rx="56.506653" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 957.1114,2254.2404 c -9.3024,18.4071 -61.7698,19.9506 -81.0845,16.2091 38.934,20.5918 37.5766,33.3858 -15.2846,35.3724 88.6492,37.1119 16.2062,31.496 1.9173,40.9065 69.6062,12.7896 38.4637,28.7065 26.0715,44.5515 80.0051,0.5443 53.823,25.9434 57.1952,46.1721 6.7825,-9.4922 39.0044,-38.3907 40.9431,-6.2142 52.9188,-30.6981 116.6582,-50.5277 121.7193,3.1943 21.3219,-27.0261 42.5798,-38.4484 40.9433,-6.2142 52.8291,-41.9245 116.1293,-36.4257 168.4066,-5.3922 -27.0226,-23.3116 -6.3436,-41.6858 34.235,-37.1302 -5.6896,-12.5422 8.0115,-21.1637 38.953,-26.2835 -41.1163,-7.5763 -48.6939,-15.3912 27.65,-23.8012 -58.0934,-0.8135 -112.2657,-2.4802 -44.1097,-31.1607 -21.3824,-0.694 -72.1144,23.2379 -48.4612,-46.7992 -36.7683,22.4213 -75.9968,34.7962 -125.193,-12.1708 -23.282,23.4638 -63.6643,35.0746 -81.2326,5.7665 -6.3144,12.4946 -32.4974,17.1936 -54.7246,17.7634 -8.5953,-4.9631 -17.4604,-11.7041 -26.7116,-20.5361 -15.12,18.5447 -37.7382,31.069 -81.2325,5.7665 z"
+       d="m 965.31908,2254.2404 c -10.09468,18.4071 -67.03068,19.9506 -87.9904,16.2091 42.24998,20.5918 40.77697,33.3858 -16.58638,35.3724 96.19938,37.1119 17.58647,31.496 2.08059,40.9065 75.53451,12.7896 41.73963,28.7065 28.29199,44.5515 86.81908,0.5443 58.40707,25.9434 62.06647,46.1721 7.36016,-9.4922 42.32638,-38.3907 44.4302,-6.2142 57.42585,-30.6981 126.59385,-50.5277 132.08605,3.1943 23.1379,-27.0261 46.2063,-38.4484 44.4304,-6.2142 57.3285,-41.9245 126.0199,-36.4257 182.7497,-5.3922 -29.3241,-23.3116 -6.8839,-41.6858 37.1507,-37.1302 -6.1742,-12.5422 8.6939,-21.1637 42.2706,-26.2835 -44.6181,-7.5763 -52.8411,-15.3912 30.0049,-23.8012 -63.0411,-0.8135 -121.8272,-2.4802 -47.8664,-31.1607 -23.2036,-0.694 -78.2564,23.2379 -52.5886,-46.7992 -39.8999,22.4213 -82.4694,34.7962 -135.8556,-12.1708 -25.2649,23.4638 -69.0866,35.0746 -88.1512,5.7665 -6.8521,12.4946 -35.2651,17.1936 -59.3854,17.7634 -9.3274,-4.9631 -18.9475,-11.7041 -28.9866,-20.5361 -16.4078,18.5447 -40.9523,31.069 -88.15102,5.7665 z"
        id="path3549-3-7-7-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.30239105px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.5321846;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="1476.759"
+       x="1511.2008"
        y="2218.3601"
        id="text4246-2-3-1-3-9-3-7-9-5-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.93835319,0,-0.12334078,1.0656968,0,0)"><tspan
          sodipodi:role="line"
          style="font-size:61.13397217px;stroke:#000000;stroke-width:3.5321846;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="1476.759"
+         x="1511.2008"
          y="2218.3601"
          id="tspan4814-3-3-7"> SPIRULINE !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1111.6204"
-       y="2153.4473"
+       x="1138.2357"
+       y="2147.7439"
        id="text4246-2-3-1-3-9-3-7-6-5-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1111.6204"
-         y="2153.4473"
+         x="1138.2357"
+         y="2147.7439"
          id="tspan4201-4">...une sorcière des fonds</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1111.6204"
-         y="2209.6973"
-         id="tspan4687">marins de la magie</tspan><tspan
+         x="1138.2357"
+         y="2203.9939"
+         id="tspan4689">marins maîtrisant la</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1111.6204"
-         y="2265.9473"
-         id="tspan4689">mysterieuse d' &quot;Aquah&quot;</tspan><tspan
+         x="1138.2357"
+         y="2260.2439"
+         id="tspan3499">redoutable magie d'&quot;Aquah&quot; !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1111.6204"
-         y="2322.1973"
+         x="1138.2357"
+         y="2316.4939"
          id="tspan4691" /></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1991.8253,2224.477 c -1.1102,-31.4626 7.7719,-28.1506 12.213,-33.1185 -4.4411,-26.4949 5.5513,-56.3015 43.2999,-66.2371 9.9923,-19.8709 41.0796,-33.1185 61.0643,-14.9034 15.5436,-14.9031 38.859,-13.2473 47.7411,0 11.1027,-13.2473 24.4257,3.3121 25.5359,6.6239 13.3232,-6.6239 31.0873,0 37.7488,8.2795 17.7642,-9.9355 53.2923,9.9356 51.072,33.1186 18.8745,18.2152 18.8745,38.0864 12.2128,49.6778 14.4334,14.9033 18.8744,79.4845 -24.4257,82.7963 -13.3233,23.1829 -46.6309,31.4625 -61.0641,16.5591 -21.0951,4.9679 -34.4182,9.9356 -38.8593,-3.3118 -11.1025,13.2474 -37.7486,11.5915 -28.8664,-11.5915 -13.7147,14.807 -28.8169,9.8094 -40.243,-0.6052 -20.9483,17.0419 -46.3398,8.5209 -45.0705,-9.4679 -28.5657,5.6806 -31.7397,-22.7228 -29.8351,-33.1373 -4.4437,-1.8937 -15.2354,-3.7871 -22.5237,-24.6825 z"
+       d="m 1969.0242,2224.477 c -1.2504,-31.4626 8.7533,-28.1506 13.7553,-33.1185 -5.002,-26.4949 6.2523,-56.3015 48.7676,-66.2371 11.2542,-19.8709 46.2671,-33.1185 68.7755,-14.9034 17.5064,-14.9031 43.7661,-13.2473 53.7697,0 12.5048,-13.2473 27.5102,3.3121 28.7606,6.6239 15.0056,-6.6239 35.013,0 42.5156,8.2795 20.0074,-9.9355 60.022,9.9356 57.5214,33.1186 21.2578,18.2152 21.2578,38.0864 13.7549,49.6778 16.2561,14.9033 21.2579,79.4845 -27.5101,82.7963 -15.0058,23.1829 -52.5194,31.4625 -68.7752,16.5591 -23.759,4.9679 -38.7645,9.9356 -43.7663,-3.3118 -12.5045,13.2474 -42.5155,11.5915 -32.5117,-11.5915 -15.4465,14.807 -32.4559,9.8094 -45.3248,-0.6052 -23.5936,17.0419 -52.1915,8.5209 -50.7619,-9.4679 -32.173,5.6806 -35.7477,-22.7228 -33.6026,-33.1373 -5.005,-1.8937 -17.1594,-3.7871 -25.368,-24.6825 z"
        id="path4043"
        inkscape:connector-curvature="0" />
     <path
@@ -812,23 +821,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
        x="2145.2688"
-       y="2201.6802"
+       y="2163.6802"
        id="text4246-2-3-1-3-9-3-7-6-5-4-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2153.179"
+         y="2163.6802"
+         id="tspan3501">Aquah ?! </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2145.2688"
-         y="2201.6802"
-         id="tspan4741">Aquah?! ici?</tspan><tspan
+         y="2219.9302"
+         id="tspan3505">Ici ?!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2153.179"
-         y="2257.9302"
-         id="tspan4755">wow! </tspan><tspan
+         y="2276.1802"
+         id="tspan4755">Incroyable ! </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2145.2688"
-         y="2314.1802"
+         y="2332.4302"
          id="tspan4749" /></text>
   </g>
 </svg>
