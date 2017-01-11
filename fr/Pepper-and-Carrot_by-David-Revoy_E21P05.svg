@@ -310,17 +310,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1248"
-     inkscape:window-height="1040"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.1988707"
-     inkscape:cx="798.01932"
-     inkscape:cy="1729.6839"
-     inkscape:window-x="668"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="0.56249128"
+     inkscape:cx="1214.8828"
+     inkscape:cy="1163.5071"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -328,13 +328,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -590,17 +590,17 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2010.1897"
          y="178.61183"
-         id="tspan4536">Sorcière de la magie des esprits</tspan><tspan
+         id="tspan4187">Sorcière de la magie spirituelle</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2010.1897"
          y="234.86183"
-         id="tspan4187">et du sacré de &quot;Ah&quot;, c'est notre</tspan><tspan
+         id="tspan3470">et ascétique de &quot;Ah&quot;, c'est un</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2010.1897"
          y="291.11182"
-         id="tspan4189">plaisir d'avoir parmis nous</tspan></text>
+         id="tspan4189">plaisir d'avoir parmi nous...</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.82511902px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.04432487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -636,24 +636,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1447.5769"
-       y="261.37961"
+       x="1443.5769"
+       y="263.37961"
        id="text4246-2-3-1-3-9-3-7-6-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1447.5769"
-         y="261.37961"
+         x="1443.5769"
+         y="263.37961"
          id="tspan4189-5">C'est bientôt</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1455.4871"
-         y="317.62961"
-         id="tspan4554">notre tour! </tspan><tspan
+         x="1451.4871"
+         y="319.62961"
+         id="tspan4554">notre tour ! </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1447.5769"
-         y="373.87961"
+         x="1443.5769"
+         y="375.87961"
          id="tspan4556" /></text>
     <text
        xml:space="preserve"
@@ -671,7 +671,7 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="1450.575"
          y="453.11484"
-         id="tspan4589">Sérieux! </tspan><tspan
+         id="tspan4589">sérieux ! </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="1442.6648"
@@ -686,14 +686,14 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1454.6774"
+         x="1446.7672"
          y="524.53571"
-         id="tspan4589-3">S'il te </tspan><tspan
+         id="tspan4618">Par</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1454.6774"
+         x="1446.7672"
          y="580.78571"
-         id="tspan4618">plait! </tspan><tspan
+         id="tspan3466">pitié !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="1446.7672"
@@ -711,7 +711,7 @@
          style="font-size:48.24732971px;stroke:#000000;stroke-width:2.78762341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1534.9904"
          y="655.22974"
-         id="tspan4814-3-4-6">Juste</tspan><tspan
+         id="tspan4814-3-4-6">Juste pour</tspan><tspan
          sodipodi:role="line"
          style="font-size:48.24732971px;stroke:#000000;stroke-width:2.78762341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1534.9904"
@@ -729,12 +729,12 @@
          style="font-size:54.74166489px;stroke:#000000;stroke-width:3.16285157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1666.0044"
          y="2055.5349"
-         id="tspan4814-3-4-7">Carrot!</tspan><tspan
+         id="tspan4814-3-4-7">Carrot !</tspan><tspan
          sodipodi:role="line"
          style="font-size:54.74166489px;stroke:#000000;stroke-width:3.16285157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1666.0044"
          y="2123.9619"
-         id="tspan4769">NON!!!</tspan></text>
+         id="tspan4769">NON !!!</tspan></text>
     <use
        x="0"
        y="0"
