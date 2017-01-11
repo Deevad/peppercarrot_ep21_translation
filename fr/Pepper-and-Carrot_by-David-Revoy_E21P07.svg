@@ -596,17 +596,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34782609"
-     inkscape:cx="725.30151"
-     inkscape:cy="1598.4201"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:zoom="0.49190037"
+     inkscape:cx="1295.1425"
+     inkscape:cy="35.642528"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -614,13 +614,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
+       width="2481"
        height="3800"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -691,13 +691,13 @@
          id="tspan4321-6-9-2">Queen Aiel </tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2166.6088,297.72686 c -17.8779,-14.38118 -22.7218,-34.32669 -20.9339,-42.54455 1.7876,-8.21776 17.8777,-50.33413 37.5434,-55.47028 19.6656,-5.13615 71.324,-2.51067 82.9446,2.62548 11.6206,5.13604 43.988,30.24586 43.988,47.70864 0,17.4629 -6.2572,51.3614 -24.1351,61.63361 -17.8778,10.27229 -97.9536,23.02732 -119.407,-13.9529 z"
+       d="m 1518.1035,892.11082 c -17.8779,-12.75043 -22.7218,-30.43421 -20.9339,-37.7202 1.7876,-7.28591 17.8777,-44.62648 37.5434,-49.18021 19.6656,-4.55374 71.324,-2.22597 82.9446,2.32776 11.6206,4.55364 43.988,26.81612 43.988,42.2987 0,15.48269 -6.2572,45.53726 -24.1351,54.64465 -17.8778,9.10746 -97.9536,20.41613 -119.407,-12.3707 z"
        id="path3349"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2214.3433,324.3685 c 7.1104,-41.12497 17.6031,-39.30358 17.6031,-39.30358 l 13.3133,27.65334 c 0,0 -2.4736,66.89208 -96.7145,68.85007 44.4995,-11.90493 59.8114,-23.69683 65.7981,-57.19983 z"
+       d="m 1656.847,854.02697 c -39.2056,-13.69388 -47.2979,-0.69012 -47.2979,-0.69012 l 9.9076,29.96372 c 0,0 55.5022,32.70269 142.7648,-74.35878 -49.9459,44.71935 -73.2582,56.01819 -105.3745,45.08518 z"
        id="path3072"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -718,27 +718,27 @@
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8"
        width="598.01105"
-       height="385.38669"
+       height="271.54251"
        x="1182.0499"
-       y="512.04901"
-       ry="100.00633" />
+       y="520.18073"
+       ry="70.464211" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1328.8409,336.50285 c -6.4462,16.23212 -42.8035,17.59325 -56.1876,14.29379 26.9793,18.15861 26.0387,29.44085 -10.5915,31.19263 61.4295,32.72657 11.2301,27.77427 1.3286,36.0728 48.2336,11.27829 26.6534,25.31442 18.0662,39.28713 55.4397,0.47994 37.2968,22.87774 39.6335,40.71615 4.6999,-8.37058 27.0281,-33.85431 28.3716,-5.47988 36.6701,-27.07074 80.8384,-44.55708 84.3455,2.81681 14.775,-23.83251 29.5057,-33.9051 28.3716,-5.47988 36.6079,-36.97058 69.5052,-23.66291 102.5974,-13.21363 8.6915,-11.1586 9.7042,-28.30143 37.8232,-24.2841 -3.9426,-11.06017 5.5516,-18.66289 26.9926,-23.1777 -28.4917,-6.68113 -33.7426,-13.57256 19.16,-20.9888 -40.2558,-0.71736 -77.7946,-2.18707 -30.5658,-27.47863 -14.817,-0.61198 -49.9718,20.49198 -33.5813,-41.26923 -25.4786,19.77192 -52.662,30.68462 -86.7525,-10.73251 -16.1333,20.69118 -44.1162,30.93 -56.2902,5.08507 -4.3755,11.01815 -22.519,15.1619 -37.9214,15.66442 -5.9561,-4.37663 -12.0992,-10.32118 -18.5098,-18.10951 -10.4775,16.35342 -26.1508,27.3978 -56.2901,5.08507 z"
+       d="m 1328.8409,342.60165 c -6.4462,16.23212 -42.8035,17.59325 -56.1876,14.29379 26.9793,18.15861 26.0387,29.44085 -10.5915,31.19263 61.4295,32.72657 11.2301,27.77427 1.3286,36.0728 48.2336,11.27829 26.6534,25.31442 18.0662,39.28713 55.4397,0.47994 37.2968,22.87774 39.6335,40.71615 4.6999,-8.37058 27.0281,-33.85431 28.3716,-5.47988 36.6701,-27.07074 80.8384,-44.55708 84.3455,2.81681 14.775,-23.83251 29.5057,-33.9051 28.3716,-5.47988 36.6079,-36.97058 69.5052,-23.66291 102.5974,-13.21363 8.6915,-11.1586 9.7042,-28.30143 37.8232,-24.2841 -3.9426,-11.06017 5.5516,-18.66289 26.9926,-23.1777 -28.4917,-6.68113 -33.7426,-13.57256 19.16,-20.9888 -40.2558,-0.71736 -77.7946,-2.18707 -30.5658,-27.47863 -14.817,-0.61198 -49.9718,20.49198 -33.5813,-41.26923 -25.4786,19.77192 -52.662,30.68462 -86.7525,-10.73251 -16.1333,20.69118 -44.1162,30.93 -56.2902,5.08507 -4.3755,11.01815 -22.519,15.1619 -37.9214,15.66442 -5.9561,-4.37663 -12.0992,-10.32118 -18.5098,-18.10951 -10.4775,16.35342 -26.1508,27.3978 -56.2901,5.08507 z"
        id="path3549-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632"
-       width="486.948"
-       height="235.58736"
-       x="1203.9551"
+       width="582.49579"
+       height="241.68616"
+       x="1185.6587"
        y="137.22365"
-       ry="61.133991" />
+       ry="62.716606" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 659.92604,638.94362 c 27.81917,-54.60817 50.04361,4.21042 60.77513,23.22178 21.62078,-24.92136 43.21772,-49.96962 78.90195,0 13.89905,-20.75497 29.01298,-39.92648 73.97057,-20.2005 -19.94323,-20.16646 -15.1516,-27.77512 66.98203,-74.97077 -71.80527,27.32635 -80.51236,-57.463 -68.66208,-72.49335 -34.67988,9.27665 -36.32774,-11.13319 -25.22612,-49.3647 -26.54578,28.53308 -46.23427,-0.21753 -37.5557,-38.2975 -33.37829,30.24688 -47.50476,16.33899 -63.75379,-8.96301 -13.95485,22.77892 -29.38344,41.03016 -57.53267,20.20049 7.55178,40.26779 -7.20712,55.61052 -31.23202,60.60149 0,0 15.30604,51.05617 -1.64379,85.85211 30.73972,14.87759 4.9207,49.06209 4.97649,74.41396 z"
+       d="m 660.45737,637.87188 c 30.78941,-57.12846 55.38674,4.40474 67.26405,24.29352 23.92923,-26.07154 47.83206,-52.27584 87.32627,0 15.38304,-21.71286 32.11067,-41.76918 81.86835,-21.1328 -22.07256,-21.09719 -16.76932,-29.057 74.13366,-78.43085 -79.47187,28.58753 -89.10861,-60.11504 -75.99308,-75.83908 -38.38263,9.70478 -40.20643,-11.64702 -27.9195,-51.643 -29.38005,29.84995 -51.17068,-0.22757 -41.5655,-40.06502 -36.94207,31.64285 -52.57681,17.09307 -70.56073,-9.37667 -15.4448,23.83022 -32.52069,42.9238 -63.6754,21.13279 8.35807,42.12624 -7.97662,58.17707 -34.56664,63.39839 0,0 16.94026,53.41253 -1.8193,89.81438 34.02178,15.56423 5.44608,51.32643 5.50782,77.84834 z"
        id="path4519"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
@@ -763,10 +763,7 @@
        sodipodi:linespacing="125%"
        transform="matrix(0.7651972,0,-0.12164499,0.88065623,-19.925847,1329.0127)"><tspan
          sodipodi:role="line"
-         id="tspan4215"
-         x="2028.7821"
-         y="2443.6147"
-         style="fill:#241c1c;stroke:none;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;">A SUIVRE ...</tspan></text>
+         id="tspan3562">À SUIVRE...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#241c1c;fill-opacity:1;stroke:none;"
@@ -781,16 +778,16 @@
          id="tspan4252-9">01/2017 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
        x="1242.8344"
        y="3573.4661"
        id="text4246-42-4-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
-         x="1242.8344"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         x="1247.6683"
          y="3573.4661"
-         id="tspan4252-9-9-2">Script doctor: Craig Maloney. Relecture et aides: Valvin, Nartance, Dezponia et Alex Gryson.</tspan></text>
+         id="tspan4252-9-9-2">Script doctor : Craig Maloney. Relecture et aides : Dezponia et Alex Gryson. Amélioration des dialogues : Nicolas Artance et Valvin. </tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate;"
@@ -857,44 +854,34 @@
          y="1292.8373"
          id="tspan3476">de notre <tspan
    style="stroke:#000000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4323">jury</tspan>! </tspan></text>
+   id="tspan4323">jury </tspan>! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
        x="1477.8523"
-       y="589.29102"
+       y="575.1593"
        id="text4246-2-3-1-3-9-3-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1477.8523"
-         y="589.29102"
-         id="tspan4814">C'est la grande gagnante</tspan><tspan
+         x="1485.7625"
+         y="575.1593"
+         id="tspan3548">En tant que grande </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1477.8523"
-         y="645.54102"
-         id="tspan4556">de notre dernier concours</tspan><tspan
+         x="1485.7625"
+         y="631.4093"
+         id="tspan3550">gagnante du concours de </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1477.8523"
-         y="701.79102"
-         id="tspan4558">de potion et c'est pourquoi</tspan><tspan
+         x="1485.7625"
+         y="687.6593"
+         id="tspan3552">potion, nous avons décidé de </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1477.8523"
-         y="758.04102"
-         id="tspan4560">nous allons décidez de lui</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1477.8523"
-         y="814.29102"
-         id="tspan4562">offrir une place de choix</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1477.8523"
-         y="870.54102"
-         id="tspan4564">car elle fera...</tspan></text>
+         x="1485.7625"
+         y="743.9093"
+         id="tspan3554">lui offrir une place de choix ! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
@@ -973,41 +960,43 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1446.4664"
-       y="185.39438"
+       x="1474.4664"
+       y="183.39438"
        id="text4246-2-3-1-3-9-3-7-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1446.4664"
-         y="185.39438"
-         id="tspan4418-4">...Et donc enfin notre</tspan><tspan
+         x="1474.4664"
+         y="183.39438"
+         id="tspan4418-4">Hem ! Voici donc notre</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1446.4664"
-         y="241.64438"
+         x="1474.4664"
+         y="239.64438"
          id="tspan4735">dernière participante,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1446.4664"
-         y="297.89438"
-         id="tspan4534">de la magie du Chaos</tspan><tspan
+         x="1482.3766"
+         y="295.89438"
+         id="tspan4534">de la magie de... euh... </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="1446.4664"
-         y="354.14438"
-         id="tspan4536">&quot;Chaosah&quot; ...</tspan></text>
+         x="1474.4664"
+         y="352.14438"
+         id="tspan4536"><tspan
+   style="-inkscape-font-specification:'Lavi Italic';font-family:Lavi;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan3526">l'inqualifiable</tspan> &quot;Chaosah&quot;...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="2234.3403"
-       y="276.23303"
+       x="1594.0984"
+       y="878.17847"
        id="text4246-2-3-1-3-9-3-7-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="2234.3403"
-         y="276.23303"
+         x="1594.0984"
+         y="878.17847"
          id="tspan4418-43">?!...</tspan></text>
     <text
        xml:space="preserve"
@@ -1046,17 +1035,17 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="370.22446"
          y="187.47813"
-         id="tspan4440">Haha!</tspan><tspan
+         id="tspan4440">Ha-ha !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="370.22446"
          y="243.72813"
-         id="tspan4448">Merci Spiruline</tspan><tspan
+         id="tspan4448">Merci, Spiruline !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="370.22446"
          y="299.97815"
-         id="tspan4438">et désolé ...</tspan></text>
+         id="tspan4438">Et désolée...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1068,24 +1057,49 @@
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="772.88843"
          y="490.15042"
-         id="tspan4438-2">Où tu</tspan><tspan
+         id="tspan4495">Où vas-</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="772.88843"
-         y="546.40045"
-         id="tspan4495">vas toi?!</tspan></text>
+         y="546.40039"
+         id="tspan3518"> tu, toi ?!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.31361103px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.23461556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="921.73969"
-       y="547.4295"
+       x="926.85028"
+       y="552.89337"
        id="text4246-2-3-1-3-9-3-7-9-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.91065665,0,-0.11970024,1.0981087,0,0)"><tspan
          sodipodi:role="line"
          style="font-size:38.67604446px;stroke:#000000;stroke-width:2.23461556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="921.73969"
-         y="547.4295"
+         x="926.85028"
+         y="552.89337"
          id="tspan4814-3-7"> REVIENS !</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-5"
+       width="252.41261"
+       height="141.43484"
+       x="1189.1007"
+       y="903.9024"
+       ry="36.70179" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1321.4937"
+       y="961.88837"
+       id="text4246-2-3-1-3-9-3-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1329.4038"
+         y="961.88837"
+         id="tspan3554-9">En effet, </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1329.4038"
+         y="1018.1384"
+         id="tspan3632">elle fera... </tspan></text>
   </g>
 </svg>
