@@ -143,6 +143,71 @@
          stdDeviation="0.43105928"
          id="feGaussianBlur4436" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4317"
+       x="-0.021747756"
+       width="1.0434955"
+       y="-0.073210012"
+       height="1.14642">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934667"
+         id="feGaussianBlur4319" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4321"
+       x="-0.023570259"
+       width="1.0471405"
+       y="-0.052974464"
+       height="1.1059489">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934668"
+         id="feGaussianBlur4323" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4325"
+       x="-0.027174319"
+       width="1.0543486"
+       y="-0.067458258"
+       height="1.1349165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934668"
+         id="feGaussianBlur4327" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4329"
+       x="-0.017301678"
+       width="1.0346034"
+       y="-0.40235311"
+       height="1.8047062">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934667"
+         id="feGaussianBlur4331" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4333"
+       x="-0.020153347"
+       width="1.0403067"
+       y="-0.094785321"
+       height="1.1895706">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934668"
+         id="feGaussianBlur4335" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -153,15 +218,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000003"
-     inkscape:cx="1408.2429"
-     inkscape:cy="482.07776"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.34782611"
+     inkscape:cx="1118.8263"
+     inkscape:cy="1065.3916"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -170,13 +235,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -325,7 +390,7 @@
        y="0"
        xlink:href="#text4246"
        id="use4165"
-       transform="matrix(0.04127136,0.01295655,-0.01817587,0.06097097,1132.2015,1376.3043)"
+       transform="matrix(0.03808114,0.02051887,-0.02936521,0.05644029,1182.1046,1337.6282)"
        width="100%"
        height="100%"
        style="filter:url(#filter4387)" />
@@ -334,7 +399,7 @@
        y="0"
        xlink:href="#text4246-5"
        id="use4167"
-       transform="matrix(0.02849236,0.00825733,-0.01254801,0.03885735,1134.8272,1430.6939)"
+       transform="matrix(0.02650321,0.01332584,-0.01943867,0.03590939,1177.2611,1394.6063)"
        width="100%"
        height="100%"
        style="filter:url(#filter4675)" />
@@ -343,7 +408,7 @@
        y="0"
        xlink:href="#text4246-5-1"
        id="use4169"
-       transform="matrix(0.02849236,0.00871635,-0.01254801,0.04101743,1135.0931,1423.5097)"
+       transform="matrix(0.025427,0.01553246,-0.02236044,0.03660455,1190.1881,1390.4604)"
        width="100%"
        height="100%"
        style="filter:url(#filter4671)" />
@@ -365,5 +430,59 @@
        id="path4200"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246"
+       id="use3385"
+       transform="matrix(-0.25038927,0.14616664,0.22570412,0.31978695,-19.052874,2142.7476)"
+       width="100%"
+       height="100%"
+       style="filter:url(#filter4333);opacity:0.38" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-5"
+       id="use3387"
+       transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-341.50513,2178.4137)"
+       width="100%"
+       height="100%"
+       style="opacity:0.38000004;filter:url(#filter4329)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-5-1"
+       id="use3389"
+       transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-341.50513,2184.0848)"
+       width="100%"
+       height="100%"
+       style="filter:url(#filter4317);opacity:0.38" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-3"
+       id="use3391"
+       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-104.92387,2173.7466)"
+       width="100%"
+       height="100%"
+       style="filter:url(#filter4325);opacity:0.38" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4200"
+       id="use3393"
+       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-104.92387,2173.7466)"
+       width="100%"
+       height="100%"
+       style="filter:url(#filter4321);opacity:0.38" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3395"
+       width="244.84836"
+       height="56.07214"
+       x="270.08081"
+       y="3403.9392"
+       rx="51.769699"
+       ry="51.769699" />
   </g>
 </svg>
