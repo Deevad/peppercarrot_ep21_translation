@@ -692,15 +692,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.526013"
-     inkscape:cx="1250.1268"
-     inkscape:cy="1827.5117"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.34586209"
+     inkscape:cx="668.29325"
+     inkscape:cy="1983.372"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -709,13 +709,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -757,18 +757,6 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2196.1889,2029.1425 c -0.053,19.3983 -2.757,41.6723 -4.7181,45.4112 -1.9611,3.7388 -23.2846,11.5567 -23.8997,17.865 -0.6152,6.3081 7.9747,17.9435 6.7372,21.7035 -1.2374,3.7598 -16.0819,12.6086 -16.2845,17.6635 -0.2026,5.055 8.2255,29.7597 7.0219,32.677 -1.2036,2.9173 -7.6344,18.7573 -8.6886,36.018 13.5178,-29.974 19.7533,-31.9023 20.3683,-38.2105 0.6152,-6.3083 -6.3922,-21.2718 -4.3636,-26.6957 2.0286,-5.4239 16.1495,-14.2937 16.4195,-21.0336 0.2702,-6.7399 -5.1476,-16.175 -5.1476,-16.175 5.4444,-0.2642 33.5919,-6.6194 40.0082,-40.1727 6.4163,-33.5535 -27.453,-29.0507 -27.453,-29.0507 z"
-       id="path5050"
-       inkscape:connector-curvature="0"
-       inkscape:transform-center-x="-9.9999997"
-       inkscape:transform-center-y="-7.4999998" />
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2109.6061,2024.434 c -5.2044,-25.6096 8.6739,-93.6351 115.3634,-88.033 106.6894,5.6021 124.0374,37.6141 126.6395,47.2177 2.6023,9.6036 25.1545,64.024 -58.1153,78.4294 -83.2699,14.4054 -157.8658,-0.8003 -183.8876,-37.6141 z"
-       id="path3525"
-       inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4172);enable-background:accumulate"
        d="m 1415.1024,1375.9062 c 156.9856,4.8731 166.0897,54.8697 165.8002,104.4211 -0.2653,45.4145 -29.6572,65.2583 -57.3504,69.5726 -20.9315,3.2609 -84.9703,9.9954 -125.0354,7.8116 -37.8813,-2.0648 -135.892,10.3543 -142.4123,-88.5252 -6.5203,-98.8795 150.3088,-97.1142 158.9979,-93.2801 z"
@@ -989,7 +977,7 @@
          sodipodi:role="line"
          id="tspan3556"
          x="398.19211"
-         y="569.76575"></tspan></text>
+         y="569.76575" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1175,16 +1163,5 @@
        transform="matrix(1.2725035,0,0,1.0916251,-420.78167,-256.55548)"
        width="100%"
        height="100%" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="2233.4399"
-       y="2014.6304"
-       id="text4246-2-3-1-3-9-3-7-60"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3572"
-         x="2233.4399"
-         y="2014.6304">*soupir*</tspan></text>
   </g>
 </svg>
