@@ -95,16 +95,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4174675"
-     inkscape:cx="1421.7607"
-     inkscape:cy="925.62963"
-     inkscape:window-x="1920"
-     inkscape:window-y="22"
+     inkscape:zoom="0.27449166"
+     inkscape:cx="1957.9742"
+     inkscape:cy="2393.9298"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -114,16 +114,17 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="transla-notes">
+     inkscape:label="transla-notes"
+     style="display:inline">
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.481;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#565656;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -530.39088,479.24411 0,189.0351 203.83,0 0,-90.9805 10,0 0,15.6308 30.9825,-26.9824 -30.9825,-26.9804 0,16.6171 -10,0 0,-76.3397 -203.83,0 z"
@@ -159,7 +160,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles">
+     inkscape:label="speechbubbles"
+     style="display:inline">
     <path
        style="fill:#ffffff;stroke:none"
        d="m 1749.2271,3349.5103 c 2.3338,-10.0694 -2.4182,-19.648 -8.2115,-23.1578 -5.7936,-3.5097 -7.772,-4.8369 -14.7392,-4.623 -6.9674,0.2138 -15.3801,-15.4012 -18.087,-21.9539 -2.7074,-6.5527 -26.2066,-26.9243 -26.2066,-26.9243 0,0 1.295,25.8265 3.5665,34.749 2.2719,8.9227 2.5672,5.0333 4.4912,8.3105 1.924,3.2774 12.0128,11.8552 18.3656,15.4508 4.9887,2.8237 11.1194,6.5887 19.533,4.8752 5.589,-1.1382 12.6443,7.674 9.9526,15.1903 -2.9871,8.3407 0.2939,12.9552 10.1711,19.5738 9.1618,6.1394 25.4987,11.6157 25.4987,11.6157 -30.1265,-22.9274 -26.9504,-21.8199 -24.3344,-33.1063 z"
@@ -260,7 +262,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -293,6 +296,238 @@
          x="387.59586"
          y="411.71906"
          id="tspan3469">ouvert !</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4580-1-7-3-6"
+       id="use4205"
+       transform="matrix(0.76095162,0,0,0.73309209,451.75807,1241.7241)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4205"
+       id="use4207"
+       transform="translate(80.675924,58.860273)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4207"
+       id="use4209"
+       transform="matrix(0.89450352,-0.07296573,0.07079928,0.86794456,-285.77472,206.70599)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4209"
+       id="use4211"
+       transform="matrix(1.2242752,0,0,1.1562701,19.033193,-152.92185)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4211"
+       id="use4213"
+       transform="matrix(0.79400936,0,0,0.74351129,86.338619,242.91653)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4213"
+       id="use4215"
+       transform="translate(50.088058,-418.78604)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4205"
+       id="use4217"
+       transform="matrix(1.190104,0,0,1.1764056,1873.1319,-225.19177)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4207"
+       id="use4219"
+       transform="translate(1548.1581,-584.95481)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4209"
+       id="use4221"
+       transform="translate(1844.0411,-445.09153)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4211"
+       id="use4223"
+       transform="translate(1859.8806,-76.505052)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4213"
+       id="use4225"
+       transform="translate(1870.3348,10.612501)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4219"
+       id="use4227"
+       transform="matrix(1.3759736,0,0,1.3761542,-401.50883,57.282084)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4227"
+       id="use4229"
+       transform="translate(-1780.2077,155.54445)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4215"
+       id="use4653"
+       transform="matrix(0.81994896,0,0,0.82746843,99.665013,112.72301)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4653"
+       id="use4655"
+       transform="matrix(0.81766718,0,0,0.82071082,134.84237,227.33949)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4655"
+       id="use4657"
+       transform="translate(1587.1235,38.014935)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4657"
+       id="use4659"
+       transform="translate(76.029869,6.3358219)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4659"
+       id="use4661"
+       transform="translate(-250.26499,-60.190312)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4229"
+       id="use4663"
+       transform="translate(-285.11201,-256.60081)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4663"
+       id="use4665"
+       transform="translate(408.66055,310.4553)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4665"
+       id="use4667"
+       transform="matrix(0.7736158,0,0,0.80234503,286.22086,368.18853)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4667"
+       id="use4669"
+       transform="matrix(0.82128554,0,0,0.69817771,259.18593,547.41793)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4669"
+       id="use4671"
+       transform="matrix(1.1825791,0,0,1.4191735,1037.6716,-783.92212)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4671"
+       id="use4673"
+       transform="translate(-107.70898,-6.3358224)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4673"
+       id="use4675"
+       transform="translate(342.13441,-6.3358224)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4669"
+       id="use4677"
+       transform="translate(966.21292,-9.5037337)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4215"
+       id="use4679"
+       transform="translate(-82.365692,-31.679112)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4679"
+       id="use4681"
+       transform="translate(1669.4892,104.54107)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4215"
+       id="use4683"
+       transform="translate(-161.56347,262.93663)"
+       width="100%"
+       height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -308,7 +543,7 @@
          sodipodi:role="line"
          style="font-size:45px"
          x="447.75046"
-         y="2114.1641"
+         y="2114.1638"
          id="tspan3473">évènement avec impatience !</tspan></text>
     <text
        xml:space="preserve"
@@ -366,318 +601,6 @@
          id="tspan3490">participantes !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
-       x="2008.6973"
-       y="2037.4711"
-       id="text4246-2-3-1-3-9-9-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="2008.6973"
-         y="2037.4711"
-         id="tspan4359-1">Carrot ?!</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="2008.6973"
-         y="2093.7212"
-         id="tspan4514">Mais qu'est-ce</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
-         x="2008.6973"
-         y="2149.9712"
-         id="tspan4518">que tu fais ?!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2202.4763"
-       y="2260.6331"
-       id="text4246-2-3-1-3-9-9-6-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3504"
-         x="2202.4763"
-         y="2260.6331">Réveille-toi !</tspan><tspan
-         sodipodi:role="line"
-         id="tspan3512"
-         x="2202.4763"
-         y="2316.8831">Ça commence !</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97429085px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="2694.9297"
-       y="3825.3547"
-       id="text4580-1-7-3-6-2"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.82185162,-0.56349838,-0.01316314,1.2257899,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4582-8-5-6-1-8"
-         x="2694.9297"
-         y="3825.3547"
-         style="font-size:39.2102623px;letter-spacing:1.49000001px;fill:#000000;stroke-width:0.33399999;stroke-miterlimit:4;stroke-dasharray:none"
-         dx="0.28999999">Pok!</tspan></text>
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#text4580-1-7-3-6"
-       id="use4205"
-       transform="matrix(0.76095162,0,0,0.73309209,451.75807,1241.7241)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4205"
-       id="use4207"
-       transform="translate(80.675924,58.860273)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4207"
-       id="use4209"
-       transform="matrix(0.89450352,-0.07296573,0.07079928,0.86794456,-285.77472,206.70599)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4209"
-       id="use4211"
-       transform="matrix(1.2242752,0,0,1.1562701,19.033193,-152.92185)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4211"
-       id="use4213"
-       transform="matrix(0.79400936,0,0,0.74351129,86.338619,242.91653)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4213"
-       id="use4215"
-       transform="translate(50.088058,-418.78604)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4205"
-       id="use4217"
-       transform="matrix(1.190104,0,0,1.1764056,1873.1319,-225.19177)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4207"
-       id="use4219"
-       transform="translate(1548.1581,-584.95481)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4209"
-       id="use4221"
-       transform="translate(1844.0411,-445.09153)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4211"
-       id="use4223"
-       transform="translate(1859.8806,-76.505052)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4213"
-       id="use4225"
-       transform="translate(1870.3348,10.612501)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4219"
-       id="use4227"
-       transform="matrix(1.3759736,0,0,1.3761542,-401.50883,57.282084)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4227"
-       id="use4229"
-       transform="translate(-1780.2077,155.54445)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4215"
-       id="use4653"
-       transform="matrix(0.81994896,0,0,0.82746843,99.665013,112.72301)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4653"
-       id="use4655"
-       transform="matrix(0.81766718,0,0,0.82071082,134.84237,227.33949)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4655"
-       id="use4657"
-       transform="translate(1587.1235,38.014935)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4657"
-       id="use4659"
-       transform="translate(76.029869,6.3358219)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4659"
-       id="use4661"
-       transform="translate(-250.26499,-60.190312)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4229"
-       id="use4663"
-       transform="translate(-285.11201,-256.60081)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4663"
-       id="use4665"
-       transform="translate(408.66055,310.4553)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4665"
-       id="use4667"
-       transform="matrix(0.7736158,0,0,0.80234503,286.22086,368.18853)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4667"
-       id="use4669"
-       transform="matrix(0.82128554,0,0,0.69817771,259.18593,547.41793)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4669"
-       id="use4671"
-       transform="matrix(1.1825791,0,0,1.4191735,1037.6716,-783.92212)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4671"
-       id="use4673"
-       transform="translate(-107.70898,-6.3358224)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4673"
-       id="use4675"
-       transform="translate(342.13441,-6.3358224)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4669"
-       id="use4677"
-       transform="translate(966.21292,-9.5037337)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4215"
-       id="use4679"
-       transform="translate(-82.365692,-31.679112)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4679"
-       id="use4681"
-       transform="translate(1669.4892,104.54107)"
-       width="100%"
-       height="100%" />
-    <use
-       style=""
-       x="0"
-       y="0"
-       xlink:href="#use4215"
-       id="use4683"
-       transform="translate(-161.56347,262.93663)"
-       width="100%"
-       height="100%" />
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.24508095px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.16976786;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="1971.2021"
        y="3085.7427"
@@ -716,6 +639,43 @@
          y="3280.1775"
          id="tspan4814-3-3-7-1-7"> Z ...</tspan></text>
     <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="2008.6973"
+       y="2037.4711"
+       id="text4246-2-3-1-3-9-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="2008.6973"
+         y="2037.4711"
+         id="tspan4359-1">Carrot ?!</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2008.6973"
+         y="2093.7212"
+         id="tspan4514">Mais qu'est-ce</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="2008.6973"
+         y="2149.9712"
+         id="tspan4518">que tu fais ?!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2202.4763"
+       y="2260.6331"
+       id="text4246-2-3-1-3-9-9-6-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3504"
+         x="2202.4763"
+         y="2260.6331">Réveille-toi !</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3512"
+         x="2202.4763"
+         y="2316.8831">Ça commence !</tspan></text>
+    <text
        sodipodi:linespacing="125%"
        id="text4250"
        y="2383.2993"
@@ -734,5 +694,19 @@
          x="2226.2952"
          id="tspan4260"
          sodipodi:role="line">regarde !</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97429085px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2694.9297"
+       y="3825.3547"
+       id="text4580-1-7-3-6-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.82185162,-0.56349838,-0.01316314,1.2257899,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4582-8-5-6-1-8"
+         x="2694.9297"
+         y="3825.3547"
+         style="font-size:39.2102623px;letter-spacing:1.49000001px;fill:#000000;stroke-width:0.33399999;stroke-miterlimit:4;stroke-dasharray:none"
+         dx="0.28999999">Pok!</tspan></text>
   </g>
 </svg>

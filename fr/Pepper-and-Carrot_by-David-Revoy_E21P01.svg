@@ -222,9 +222,9 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000003"
-     inkscape:cx="1023.5454"
-     inkscape:cy="645.46625"
+     inkscape:zoom="0.34782611"
+     inkscape:cx="1979.4513"
+     inkscape:cy="1139.0041"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -237,11 +237,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -263,7 +263,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.76312065px;line-height:126.99999809%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4213)"
@@ -330,61 +331,39 @@
          id="tspan4213-6">démonstration magique !</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
-         x="-668.15778"
-         y="3907.1792"
-         id="tspan4296">  </tspan><tspan
+         x="-671.81989"
+         y="3918.5369"
+         id="tspan4296" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="3944.6792"
+         y="3960.3042"
          id="tspan4287">Entrée : 150Ko</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-668.15778"
-         y="3982.1792"
+         y="3997.8042"
          id="tspan4215-8">Nouvelle arène géante et sécurisée </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4019.6792"
+         y="4035.3042"
          id="tspan4292">Komona</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4057.1792"
+         y="4072.8042"
          id="tspan4217-7">Azarday, 10 AirMoon</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4094.6792"
+         y="4110.3042"
          id="tspan4207-4" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4132.1792"
+         y="4147.8042"
          id="tspan4209-9" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2143.687"
-       y="3239.6572"
-       id="text4246-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="2151.5972"
-         y="3239.6572"
-         id="tspan3385">Je suis prête ! </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="2151.5972"
-         y="3295.9072"
-         id="tspan4306">Allez, Carrot. </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="2143.687"
-         y="3352.1572"
-         id="tspan4163">On y va !</tspan></text>
     <use
        x="0"
        y="0"
@@ -403,6 +382,19 @@
        width="100%"
        height="100%"
        style="filter:url(#filter4675)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.70375061px;line-height:126.99999809%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.82599996;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:3.34918165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4410)"
+       x="-2145.6782"
+       y="2491.1904"
+       id="text4246-3"
+       sodipodi:linespacing="127%"
+       transform="matrix(0.48917773,-0.75295085,0.81417144,0.33172642,-12.274723,427.43356)"><tspan
+         sodipodi:role="line"
+         id="tspan3439"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:3.34918165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-2145.6782"
+         y="2491.1904">INVITATION SPÉCIALE</tspan></text>
     <use
        x="0"
        y="0"
@@ -412,19 +404,6 @@
        width="100%"
        height="100%"
        style="filter:url(#filter4671)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.70375061px;line-height:126.99999809%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.82599996;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:3.34918154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4410);"
-       x="-2145.6782"
-       y="2491.1904"
-       id="text4246-3"
-       sodipodi:linespacing="127%"
-       transform="matrix(0.48917773,-0.75295085,0.81417144,0.33172642,-12.274723,427.43356)"><tspan
-         sodipodi:role="line"
-         id="tspan3439"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#c74b40;stroke-opacity:1;fill:#c74b40;fill-opacity:1;stroke-width:3.34918154;stroke-miterlimit:4;stroke-dasharray:none;"
-         x="-2145.6782"
-         y="2491.1904">INVITATION SPÉCIALE</tspan></text>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.82599996;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c74b40;stroke-width:10.54899979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4274);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 786.52585,3038.7303 61.85775,32.434 273.8254,-406.9964 -58.8537,-29.6815 z"
@@ -440,7 +419,7 @@
        transform="matrix(-0.25038927,0.14616664,0.22570412,0.31978695,-3.8773546,2159.4242)"
        width="100%"
        height="100%"
-       style="opacity:0.38000022;filter:url(#filter4333)" />
+       style="opacity:0.38000039;filter:url(#filter4333)" />
     <use
        x="0"
        y="0"
@@ -449,7 +428,7 @@
        transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-340.29834,2174.0719)"
        width="100%"
        height="100%"
-       style="opacity:0.38000016;filter:url(#filter4329)" />
+       style="opacity:0.38000039;filter:url(#filter4329)" />
     <use
        x="0"
        y="0"
@@ -458,7 +437,7 @@
        transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-350.2312,2173.3946)"
        width="100%"
        height="100%"
-       style="opacity:0.38000016;filter:url(#filter4317)" />
+       style="opacity:0.38000039;filter:url(#filter4317)" />
     <use
        x="0"
        y="0"
@@ -486,5 +465,27 @@
        y="3403.9392"
        rx="51.769699"
        ry="51.769699" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2143.687"
+       y="3239.6572"
+       id="text4246-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2151.5972"
+         y="3239.6572"
+         id="tspan3385">Je suis prête ! </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2151.5972"
+         y="3295.9072"
+         id="tspan4306">Allez, Carrot. </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2143.687"
+         y="3352.1572"
+         id="tspan4163">On y va !</tspan></text>
   </g>
 </svg>
