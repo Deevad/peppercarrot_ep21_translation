@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 21 (Work-in-progress, do not translate now):
+# Episode 21
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
