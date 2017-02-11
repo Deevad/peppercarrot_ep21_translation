@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="5000"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P08.svg">
@@ -72,15 +72,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.50528693"
-     inkscape:cx="1368.8608"
-     inkscape:cy="4015.891"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.58107997"
+     inkscape:cx="1074.3228"
+     inkscape:cy="4739.2397"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -99,15 +99,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep21_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
-       width="2481"
-       height="5000"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4223"
+       y="-1023.3771"
        x="0.54707891"
-       y="-1023.3771" />
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="5000"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -123,7 +123,7 @@
      transform="translate(0,1024)">
     <text
        xml:space="preserve"
-       style="font-size:9.79592609px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241c1c;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#241c1c;fill-opacity:1;stroke:none"
        x="1240.0964"
        y="-864.06586"
        id="text4246-42"
@@ -132,7 +132,7 @@
          style="font-size:36.73472214px;fill:#241c1c;stroke:none"
          x="1240.0964"
          y="-864.06586"
-         id="tspan4252-9">02/2017 - www.peppercarrot.com - Art &amp; Scenario: David Revoy</tspan></text>
+         id="tspan4252-9">02/2017 - www.peppercarrot.com - Art &amp; Scenario: David Revoy - Translation: Alex Gryson</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
