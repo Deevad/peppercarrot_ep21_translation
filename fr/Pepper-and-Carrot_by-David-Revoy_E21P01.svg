@@ -219,14 +219,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34782611"
-     inkscape:cx="1979.4513"
-     inkscape:cy="1139.0041"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:zoom="0.30245749"
+     inkscape:cx="1352.035"
+     inkscape:cy="1417.5306"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -237,11 +237,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -328,41 +328,36 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.5px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
          y="3865.4119"
-         id="tspan4213-6">démonstration magique !</tspan><tspan
+         id="tspan4296">démonstration magique !</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="3918.5369"
-         id="tspan4296" /><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
-         x="-671.81989"
-         y="3960.3042"
+         y="3907.1792"
          id="tspan4287">Entrée : 150Ko</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-668.15778"
-         y="3997.8042"
+         y="3944.6792"
          id="tspan4215-8">Nouvelle arène géante et sécurisée </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4035.3042"
+         y="3982.1792"
          id="tspan4292">Komona</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4072.8042"
+         y="4019.6792"
          id="tspan4217-7">Azarday, 10 AirMoon</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4110.3042"
+         y="4057.1792"
          id="tspan4207-4" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
          x="-671.81989"
-         y="4147.8042"
+         y="4094.6792"
          id="tspan4209-9" /></text>
     <use
        x="0"
