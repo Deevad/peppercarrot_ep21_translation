@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 21
+# Episode 21: The Magic Contest
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -12,6 +12,8 @@ License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
+
+* English: Alex Gryson
 
 * French: David Revoy
 
