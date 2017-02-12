@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P07.svg">
@@ -596,16 +596,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="873"
+     inkscape:window-width="1411"
+     inkscape:window-height="807"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.54922492"
-     inkscape:cx="877.2038"
-     inkscape:cy="2906.1405"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.47758689"
+     inkscape:cx="1673.858"
+     inkscape:cy="2857.1965"
+     inkscape:window-x="2246"
+     inkscape:window-y="105"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false" />
   <g
@@ -615,13 +615,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep21_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -692,7 +692,7 @@
        rx="62.716606"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632"
-       width="582.49579"
+       width="609.80701"
        height="241.68616"
        x="1185.6587"
        y="137.22362"
@@ -777,7 +777,7 @@
          y="508.15042"
          id="tspan3518">Where are<tspan
    style="font-style:italic"
-   id="tspan3977"></tspan></tspan><tspan
+   id="tspan3977" /></tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="794.88843"
@@ -805,34 +805,34 @@
          id="tspan3983">HERE!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="1474.4664"
-       y="183.39438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1490.8531"
+       y="187.03587"
        id="text4246-2-3-1-3-9-3-7-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1474.4664"
-         y="183.39438"
+         x="1490.8531"
+         y="187.03587"
          id="tspan4735">Ahem! Here then is our</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1474.4664"
-         y="239.64438"
+         x="1490.8531"
+         y="243.28587"
          id="tspan3987">final participant</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1474.4664"
-         y="295.89438"
-         id="tspan4536">with the uh... <tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
-   id="tspan3526">unqualifiable...</tspan></tspan><tspan
+         x="1490.8531"
+         y="299.53589"
+         id="tspan4536">with the uh... indescribable<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+   id="tspan3526">...</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1474.4664"
-         y="352.14438"
+         x="1490.8531"
+         y="355.78589"
          id="tspan3991"><tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi Italic"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
    id="tspan3993">magic of</tspan> &quot;Chaosah&quot;...</tspan></text>
     <text
        xml:space="preserve"

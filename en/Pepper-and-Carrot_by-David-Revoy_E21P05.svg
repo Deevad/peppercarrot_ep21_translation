@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P05.svg">
@@ -310,17 +310,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.94978038"
-     inkscape:cx="1838.5954"
-     inkscape:cy="373.72821"
+     inkscape:zoom="0.41061627"
+     inkscape:cx="1236.6642"
+     inkscape:cy="2674.7626"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -328,13 +328,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep21_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -500,13 +500,13 @@
     </g>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none"
-       d="m 1291.6507,324.90247 c 28.5271,10.18346 54.3138,16.5148 45.5468,-25.72278 50.495,57.3438 43.2515,18.07108 51.2403,4.2871 30.0211,40.50746 55.8518,34.73485 78.2836,-8.5742 12.6811,62.47127 39.2174,32.20352 62.627,22.86468 -0.058,17.5679 -6.4489,37.71261 62.6269,27.15187 -19.7505,15.86684 -27.1176,30.27091 17.08,38.58426 -30.7016,12.75745 -47.5625,26.33235 -14.2334,42.87143 -17.7058,24.09351 -5.8634,38.4122 18.5035,48.58755 -57.0531,1.40909 -43.3133,14.66425 -34.1602,27.15186 -48.5746,-25.67448 -55.3707,-15.39537 -51.2402,4.28711 -22.6086,-11.29084 -39.3193,-37.97783 -79.7069,-2.85801 -12.0118,-11.65572 -23.084,-26.37698 -49.8169,10.00329 -1.8858,-31.73359 -21.431,-30.5398 -49.817,-12.86139 -7.4869,-29.76022 -35.6007,-14.64997 -65.4736,4.28719 24.3831,-29.04661 26.15,-53.31269 -21.3501,-67.16521 46.0316,-16.61677 37.6496,-30.01997 19.9267,-42.87135 17.5097,-12.08489 28.9262,-25.24919 -17.08,-48.58763 26.8987,3.62828 55.5395,8.30607 27.0435,-21.43577 z"
+       d="m 1313.9511,325.08826 c 24.5748,9.88924 46.7889,16.03766 39.2365,-24.97956 43.4993,55.68697 37.2593,17.54896 44.1413,4.16322 25.8618,39.33708 48.1138,33.73126 67.4378,-8.32646 10.9243,60.66629 33.7841,31.27308 53.9504,22.20406 -0.05,17.06031 -5.5555,36.62299 53.9504,26.36737 -17.0142,15.4084 -23.3607,29.3963 14.7136,37.46945 -26.4481,12.38886 -40.973,25.57153 -12.2614,41.63275 -15.2528,23.39738 -5.0511,37.30237 15.9399,47.18372 -49.1487,1.36837 -37.3125,14.24055 -29.4275,26.36736 -41.8448,-24.93267 -47.6994,-14.95056 -44.1412,4.16324 -19.4763,-10.9646 -33.8718,-36.88054 -68.6639,-2.77542 -10.3476,-11.31897 -19.8859,-25.61489 -42.9151,9.71426 -1.6245,-30.81671 -18.4619,-29.65742 -42.9152,-12.48979 -6.4496,-28.90036 -30.6683,-14.2267 -56.4026,4.16332 21.005,-28.20736 22.5271,-51.77233 -18.3921,-65.22461 39.6542,-16.13667 32.4335,-29.1526 17.166,-41.63268 15.0838,-11.73571 24.9186,-24.51967 -14.7137,-47.18378 23.172,3.52343 47.8448,8.06607 23.2968,-20.81645 z"
        id="path4582-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1295.9346,219.69701 c 29.7678,11.98097 47.2775,13.7908 38.1293,-35.90222 52.6911,67.46568 45.1326,21.26084 53.4688,5.04382 31.3268,47.65752 58.281,40.86598 81.6884,-10.08765 13.2326,73.49821 40.923,37.88783 65.3507,26.90058 -0.06,20.66885 -6.7293,44.36934 65.3507,31.9445 -20.6095,18.66753 -28.297,35.6141 17.8229,45.39485 -32.0369,15.0093 -55.2703,32.86003 -20.4915,52.31846 -41.3111,22.65475 -25.188,39.28206 1.4512,52.46462 -29.4595,4.47734 -14.1824,24.77141 -4.6311,39.46324 -50.6872,-30.20634 -65.2976,-22.81205 -60.9874,0.34462 -23.592,-13.28381 -41.0295,-44.68138 -83.1736,-3.36248 -12.5342,-13.7131 -24.0879,-31.03284 -51.9836,11.76899 -1.9678,-37.33495 -22.363,-35.93045 -51.9835,-15.13158 -7.8126,-35.01326 -37.1491,-17.23587 -68.3213,5.04393 25.4436,-34.17369 27.2874,-62.72303 -22.2786,-79.02069 48.0336,-19.54983 39.2871,-35.31886 20.7934,-50.43867 18.2712,-14.21801 30.1842,-29.70597 -17.8229,-57.16394 28.0686,4.26872 67.3535,15.41126 37.6181,-19.58038 z"
+       d="m 1295.9346,208.77875 c 29.7678,8.78625 47.2775,10.11348 38.1293,-26.32889 52.6911,49.47596 45.1326,15.59163 53.4688,3.69888 31.3268,34.94964 58.281,29.96907 81.6884,-7.39778 13.2326,53.89992 40.923,27.78505 65.3507,19.72754 -0.06,15.15751 -6.7293,32.53826 65.3507,23.42651 -20.6095,13.68983 -28.297,26.1176 17.8229,33.29031 -32.0369,11.00707 -55.2703,24.09791 -20.4915,38.36775 -41.3111,16.61386 -25.188,28.8075 1.4512,38.47494 -29.4595,3.28345 -14.1824,18.16611 -4.6311,28.94037 -50.6872,-22.15183 -65.2976,-16.72923 -60.9874,0.25272 -23.592,-9.74169 -41.0295,-32.76709 -83.1736,-2.46587 -12.5342,-10.05651 -24.0879,-22.75794 -51.9836,8.63079 -1.9678,-27.37959 -22.363,-26.3496 -51.9835,-11.09675 -7.8126,-25.67698 -37.1491,-12.63992 -68.3213,3.69897 25.4436,-25.06128 27.2874,-45.99795 -22.2786,-57.94983 48.0336,-14.33688 39.2871,-25.90109 20.7934,-36.9892 18.2712,-10.42679 30.1842,-21.78488 -17.8229,-41.92118 28.0686,3.13046 67.3535,11.30185 37.6181,-14.35928 z"
        id="path4582"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccc" />
@@ -629,42 +629,37 @@
          id="tspan4556" /></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="1440.6204"
-       y="409.13168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1443.0558"
+       y="455.93301"
        id="text4246-2-3-1-3-9-3-7-6-7-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1440.6204"
-         y="409.13168"
-         id="tspan4589">A little</tspan><tspan
+         x="1450.9659"
+         y="455.93301"
+         id="tspan4225">Be patient! </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1448.5305"
-         y="465.38168"
-         id="tspan4225">concentration! </tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="1440.6204"
-         y="521.63171"
+         x="1443.0558"
+         y="512.18304"
          id="tspan4556-1" /></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="1444.7228"
-       y="576.80255"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1451.0759"
+       y="578.92029"
        id="text4246-2-3-1-3-9-3-7-6-7-0-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1444.7228"
-         y="576.80255"
+         x="1451.0759"
+         y="578.92029"
          id="tspan3466">Please!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1444.7228"
-         y="633.05255"
+         x="1451.0759"
+         y="635.17029"
          id="tspan4556-1-2" /></text>
     <text
        xml:space="preserve"
@@ -686,7 +681,7 @@
          id="tspan4229">today!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="2014.2786"
        y="192.92317"
        id="text4246-2-3-1-3-9-3-7-6"
@@ -700,7 +695,7 @@
          style="font-size:45px"
          x="2014.2786"
          y="249.17317"
-         id="tspan4239">magic of &quot;Ah&quot;, it is a pleisure to</tspan><tspan
+         id="tspan4239">magic of &quot;Ah&quot;, it is a pleasure to</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2014.2786"
@@ -718,7 +713,7 @@
          style="font-size:61.13397217px;stroke:#000000;stroke-width:3.5321846;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2197.5864"
          y="379.56216"
-         id="tspan4814-3"> SHICHIMI !</tspan></text>
+         id="tspan4814-3"> SHICHIMI!</tspan></text>
     <use
        x="0"
        y="0"
