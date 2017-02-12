@@ -692,15 +692,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.26152143"
-     inkscape:cx="2679.0985"
-     inkscape:cy="1652.6426"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:zoom="0.36984715"
+     inkscape:cx="1051.9287"
+     inkscape:cy="3336.0154"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -709,8 +709,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
        width="2481"
        height="3503"
        id="image10"
@@ -751,7 +751,7 @@
          id="tspan4582-8-5-6-1"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff">Ha!</tspan></text>
+         style="font-size:70px;fill:#ffffff">Ha !</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -903,16 +903,21 @@
          style="font-size:45px;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
          x="972.84607"
          y="238.41267"
-         id="tspan5017">Il s'agit de...</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
-         x="980.75623"
-         y="294.66266"
-         id="tspan5019">Mais oui ! C'est elle !  </tspan><tspan
+         id="tspan5017">Oui, c'est bien elle !</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
          x="972.84607"
+         y="294.66266"
+         id="tspan3532">Il s'agit de...</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="980.75623"
          y="350.91266"
+         id="tspan5019">  </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
+         x="972.84607"
+         y="407.16266"
          id="tspan4930-1" /></text>
     <text
        xml:space="preserve"
@@ -939,7 +944,7 @@
          id="tspan4582-0"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff">Flap!</tspan></text>
+         style="font-size:70px;fill:#ffffff">Flap !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
@@ -979,7 +984,7 @@
          id="tspan4582-6-9-1-3-9-5-3-3"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke:#5f8dd3">Plouf!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke:#5f8dd3">Plouf !</tspan></text>
     <use
        x="0"
        y="0"
@@ -1009,7 +1014,7 @@
        y="0"
        xlink:href="#use4368"
        id="use4370"
-       transform="matrix(0.90725689,0,0,0.94346389,302.27949,4.3049906)"
+       transform="matrix(0.90725689,0,0,0.94346389,306.27949,0.3049906)"
        width="100%"
        height="100%" />
     <use
@@ -1017,7 +1022,7 @@
        y="0"
        xlink:href="#use4370"
        id="use4374"
-       transform="translate(101.4862,-5.7175322)"
+       transform="translate(101.4862,-1.7175322)"
        width="100%"
        height="100%" />
     <use
@@ -1025,7 +1030,7 @@
        y="0"
        xlink:href="#use4378"
        id="use4380"
-       transform="translate(42.881492,-90.051133)"
+       transform="translate(34.881492,-98.05113)"
        width="100%"
        height="100%" />
     <use
@@ -1033,7 +1038,7 @@
        y="0"
        xlink:href="#use4370"
        id="use4372"
-       transform="matrix(0.91435466,0,0,0.92767327,156.78048,168.14114)"
+       transform="matrix(0.91435466,0,0,0.92767327,153.12306,171.85184)"
        width="100%"
        height="100%" />
     <use
@@ -1041,7 +1046,7 @@
        y="0"
        xlink:href="#use4374"
        id="use4376"
-       transform="translate(-35.734577,97.198048)"
+       transform="translate(-39.734577,105.19805)"
        width="100%"
        height="100%" />
     <use
@@ -1049,7 +1054,7 @@
        y="0"
        xlink:href="#use4376"
        id="use4378"
-       transform="translate(92.909899,-41.452109)"
+       transform="translate(114.9099,-53.452109)"
        width="100%"
        height="100%" />
     <text
@@ -1115,7 +1120,7 @@
        y="0"
        xlink:href="#use4380"
        id="use4382"
-       transform="matrix(0.74662583,0,0,0.74456881,103.72423,1232.3911)"
+       transform="matrix(0.74662583,0,0,0.74456881,93.27147,1241.3257)"
        width="100%"
        height="100%" />
     <use
@@ -1170,7 +1175,7 @@
          id="tspan4582-6-9-1-3-9-5"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke:#5f8dd3">Dzing!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke:#5f8dd3">Dzing !</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.11969566px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1196,6 +1201,6 @@
          id="tspan4582-6-9-1-3-9-5-3"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke:#5f8dd3">Splash!</tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke:#5f8dd3">Splash !</tspan></text>
   </g>
 </svg>

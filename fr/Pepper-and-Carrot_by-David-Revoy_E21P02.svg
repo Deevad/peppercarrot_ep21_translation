@@ -158,15 +158,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60835003"
-     inkscape:cx="1092.4425"
-     inkscape:cy="2564.6792"
-     inkscape:window-x="1920"
-     inkscape:window-y="22"
+     inkscape:zoom="0.30417502"
+     inkscape:cx="606.67521"
+     inkscape:cy="2137.8723"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -175,13 +175,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="C:\Users\Nicolas\Documents\GitHub\peppercarrot_ep21_translation\fr\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -482,6 +482,6 @@
          y="1584.5073"
          style="font-size:70px;fill:#ffffff"><tspan
            style="font-size:80.40014648px"
-           id="tspan4617">vlan!</tspan></tspan></text>
+           id="tspan4617">Vlan !</tspan></tspan></text>
   </g>
 </svg>
