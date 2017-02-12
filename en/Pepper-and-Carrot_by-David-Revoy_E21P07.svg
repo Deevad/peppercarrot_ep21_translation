@@ -30,6 +30,13 @@
   </metadata>
   <defs
      id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 1751.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2481 : 1751.5 : 1"
+       inkscape:persp3d-origin="1240.5 : 1167.6667 : 1"
+       id="perspective4318" />
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
@@ -600,9 +607,9 @@
      inkscape:window-height="807"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.47758689"
-     inkscape:cx="1339.8874"
-     inkscape:cy="2858.2434"
+     inkscape:zoom="0.23744509"
+     inkscape:cx="1015.4368"
+     inkscape:cy="2201.4372"
      inkscape:window-x="2246"
      inkscape:window-y="105"
      inkscape:window-maximized="0"
@@ -617,11 +624,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -668,10 +675,10 @@
        rx="35.768253"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-7"
-       width="357.573"
+       width="302.95056"
        height="137.83736"
-       x="621.901"
-       y="1183.8312"
+       x="634.64624"
+       y="1185.652"
        ry="35.768253" />
     <rect
        rx="70.464211"
@@ -731,9 +738,9 @@
        rx="36.70179"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-5"
-       width="252.41261"
+       width="258.65872"
        height="141.43484"
-       x="1189.1006"
+       x="1182.8545"
        y="903.9024"
        ry="36.70179" />
   </g>
@@ -888,40 +895,40 @@
          id="tspan4418-43">?!...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="1321.4937"
-       y="961.88837"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1317.3296"
+       y="960.84735"
        id="text4246-2-3-1-3-9-3-7-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1321.4937"
-         y="961.88837"
+         x="1317.3296"
+         y="960.84735"
          id="tspan3632">As such</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1329.4038"
-         y="1018.1384"
+         x="1325.2397"
+         y="1017.0974"
          id="tspan4012">she will be... </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       x="795.5321"
-       y="1236.5873"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="793.71136"
+       y="1234.7665"
        id="text4246-2-3-1-3-9-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="803.44226"
-         y="1236.5873"
+         x="801.62152"
+         y="1234.7665"
          id="tspan3445-5">... part </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="803.44226"
-         y="1292.8373"
+         x="801.62152"
+         y="1291.0165"
          id="tspan3476">of our <tspan
-   style="stroke:#000000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-   id="tspan4323">jury </tspan>! </tspan></text>
+   style="stroke:#000000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan4323">jury</tspan>! </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-2-3)"
