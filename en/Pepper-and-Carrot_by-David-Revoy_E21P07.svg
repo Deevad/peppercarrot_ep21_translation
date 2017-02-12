@@ -601,8 +601,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.47758689"
-     inkscape:cx="1673.858"
-     inkscape:cy="2857.1965"
+     inkscape:cx="1339.8874"
+     inkscape:cy="2858.2434"
      inkscape:window-x="2246"
      inkscape:window-y="105"
      inkscape:window-maximized="0"
@@ -617,11 +617,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -846,7 +846,7 @@
          style="font-size:61.13397217px;stroke:#000000;stroke-width:3.5321846;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1579.5811"
          y="413.80066"
-         id="tspan4814-3"> PEPPER !</tspan></text>
+         id="tspan4814-3"> PEPPER!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
