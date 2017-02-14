@@ -162,13 +162,13 @@
      inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.63880235"
-     inkscape:cx="1247.741"
-     inkscape:cy="2908.2085"
+     inkscape:zoom="0.48302635"
+     inkscape:cx="977.88141"
+     inkscape:cy="2764.7893"
      inkscape:window-x="1920"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -177,11 +177,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -196,7 +196,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 301.41236,887.88107 c 5.53227,-49.66057 42.378,-92.15481 84.71573,-101.47346 42.33766,-9.31875 394.18141,-5.45827 421.18606,5.87477 27.00456,11.33323 68.1111,19.22336 59.2612,104.33741 -8.85009,85.11413 -58.85428,104.75861 -109.37012,108.25531 -50.51576,3.4965 -377.44884,13.0768 -412.30591,-20.78242 -19.50024,-18.94201 -43.50307,-40.65101 -43.48696,-96.21161 z"
+       d="m 326.25573,892.28079 c 5.02672,-47.85411 38.50545,-88.80257 76.97432,-97.78225 38.46881,-8.97977 358.16077,-5.25972 382.69771,5.66107 24.53686,10.92097 61.88704,18.52409 53.84586,100.54202 -8.04136,82.01801 -53.47613,100.94787 -99.37579,104.31737 -45.89958,3.3693 -342.95723,12.6012 -374.62903,-20.0264 -17.71828,-18.25297 -39.52771,-39.17228 -39.51307,-92.71181 z"
        id="path4010"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -208,7 +208,7 @@
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="M 1168.0796,835.09728 C 1057.6377,967.74155 882.15697,955.72384 797.11624,911.70094 712.07558,867.6781 771.45002,864.01032 771.45002,864.01032 l 33.38661,5.93526 c -30.12794,-5.49233 148.088,137.70612 363.24297,-34.8483 z"
+       d="m 1119.5437,840.64097 c -113.8785,125.0678 -279.41233,101.54529 -356.99074,52.03846 -77.57834,-49.50677 -21.03459,-49.26335 -21.03459,-49.26335 l 31.24176,8.1154 c -28.183,-7.45936 130.87131,147.10952 346.78357,-10.89051 z"
        id="path3541"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccc" />
@@ -272,7 +272,7 @@
          id="tspan4035">want to come with us?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="580.04688"
        y="856.25879"
        id="text4246-2-3"
@@ -281,7 +281,7 @@
          style="font-size:45px"
          x="580.04688"
          y="856.25879"
-         id="tspan4187">Certain. We do</tspan><tspan
+         id="tspan4187">I'm certain. We do</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="580.04688"
