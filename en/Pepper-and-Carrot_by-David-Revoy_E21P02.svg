@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P02.svg">
@@ -158,30 +158,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.15790217"
-     inkscape:cx="-336.48325"
-     inkscape:cy="2163.2187"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.63880235"
+     inkscape:cx="1247.741"
+     inkscape:cy="2908.2085"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep21_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -317,19 +317,19 @@
          id="tspan4209" /></text>
     <text
        xml:space="preserve"
-       style="font-size:3.08855915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4218);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08855915px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4218)"
        x="1294.5164"
        y="1174.9954"
        id="text4246-5-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,2.2077183e-5,6.5627487e-5)"><tspan
          sodipodi:role="line"
-         style="font-size:15.4427948px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
          y="1174.9954"
-         id="tspan4209-0">INAUGURATION OF THE NEW ARENA</tspan><tspan
+         id="tspan4209-0">OPENING CEREMONY OF THE NEW ARENA</tspan><tspan
          sodipodi:role="line"
-         style="font-size:15.4427948px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
          y="1194.2988"
          id="tspan4222">TODAY</tspan></text>
@@ -492,5 +492,5 @@
            height="22.165623"
            x="1378.2268"
            y="1077.4476" /></flowRegion><flowPara
-         id="flowPara4056"></flowPara></flowRoot>  </g>
+         id="flowPara4056" /></flowRoot>  </g>
 </svg>
