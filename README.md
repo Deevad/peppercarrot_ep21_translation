@@ -14,13 +14,10 @@ License
 ## Translators and correctors:
 
 * English: Alex Gryson
-
 * French: David Revoy
-
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Mexicano: RJ Quiralta
-
 * Portuguese: Alexandre E. Almeida
-
 * Russian: gleki, Denis "uncle Night" Prisukhin
 
 ## Artwork:
