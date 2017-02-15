@@ -21,6 +21,8 @@ License
 
 * Portuguese: Alexandre E. Almeida
 
+* Russian: gleki, Denis "uncle Night" Prisukhin
+
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)

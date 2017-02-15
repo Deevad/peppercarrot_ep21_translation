@@ -94,17 +94,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1090"
-     inkscape:window-height="841"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.54898332"
-     inkscape:cx="2222.753"
-     inkscape:cy="1182.8965"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.38818983"
+     inkscape:cx="1094.9466"
+     inkscape:cy="2052.4357"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -112,13 +112,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="F:\pc\peppercarrot_ep21_translation\ru\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep21_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -216,15 +216,15 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-8-6-1-3-6-7"
-       width="494.69681"
-       height="202.54323"
-       x="829.09595"
-       y="2011.9032"
-       ry="59.471672"
-       rx="46.839882" />
+       width="520.4574"
+       height="171.63052"
+       x="816.21564"
+       y="2017.0553"
+       ry="50.394939"
+       rx="49.278999" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 838.00723,2310.7824 c -2.37258,-41.4428 11.78273,-65.8374 19.77667,-72.5962 3.19879,1.7317 14.2279,15.4739 14.2279,15.4739 0,0 20.16248,-53.026 35.26245,-56.6983 8.89777,-2.1639 32.55962,5.7211 32.55962,5.7211 -2.94459,-4.8684 -62.95646,60.5523 -62.79293,76.2173 -8.81018,-5.9191 -16.91731,-18.0991 -19.37203,-21.1992 -10.11991,1.3858 -21.05761,39.9518 -19.66168,53.0814 z"
+       d="m 838.08732,2310.7824 c -3.09098,-51.7264 15.35049,-82.1743 25.76495,-90.6102 4.16737,2.1614 18.53604,19.3136 18.53604,19.3136 0,0 26.26759,-66.1838 45.93975,-70.7674 11.59198,-2.7008 42.41852,7.1408 42.41852,7.1408 -3.8362,-6.0765 -82.01937,75.5777 -81.80633,95.1298 -11.47786,-7.3879 -22.03979,-22.5902 -25.23778,-26.4596 -13.18417,1.7297 -27.43376,49.8654 -25.61515,66.253 z"
        id="path4456"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccc" />
@@ -275,22 +275,22 @@
          style="font-size:45px"
          x="387.59586"
          y="204.71907"
-         id="tspan4154">Как мэр Комоны</tspan><tspan
+         id="tspan4154">На правах мэра Комоны</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="387.59586"
+         x="393.88004"
          y="260.96906"
-         id="tspan4410">я рад объявить</tspan><tspan
+         id="tspan4408">я объявляю </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="393.88004"
          y="317.21906"
-         id="tspan4408">Второй Конкурс Магов </tspan><tspan
+         id="tspan3435">Второй Конкурс Магов </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="387.59586"
          y="373.46906"
-         id="tspan3469">открытым !</tspan></text>
+         id="tspan3437">открытым!</tspan></text>
     <use
        x="0"
        y="0"
@@ -544,51 +544,46 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="443.4151"
-       y="2236.0518"
+       y="2248.9321"
        id="text4246-2-3-1-3-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="443.4151"
-         y="2236.0518"
-         id="tspan4255">Я благодарю каждого из любого</tspan><tspan
+         y="2248.9321"
+         id="tspan4255">Спасибо вам, что прилетели сюда</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="443.4151"
-         y="2292.3018"
-         id="tspan4547">уголка Эревы за готовность</tspan><tspan
+         y="2305.1821"
+         id="tspan4575">со всех четырёх уголков Эревы</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="443.4151"
-         y="2348.5518"
-         id="tspan4575">поприсутствовать при открытии</tspan><tspan
+         y="2361.4321"
+         id="tspan4248">на открытие нашей большой</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="443.4151"
-         y="2404.8018"
-         id="tspan4248">нашей самой современной</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="443.4151"
-         y="2461.0518"
-         id="tspan4612">и защищённой арены!</tspan></text>
+         y="2417.6821"
+         id="tspan4612">ультра-защищённой арены!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1078.8761"
-       y="2072.0867"
+       y="2082.3911"
        id="text4246-2-3-1-3-9-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1085.1603"
-         y="2072.0867"
-         id="tspan3490">А теперь ... </tspan><tspan
+         x="1078.8761"
+         y="2082.3911"
+         id="tspan4619">Давайте перейдем к</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1078.8761"
-         y="2128.3367"
-         id="tspan4619">наши участники!</tspan></text>
+         y="2138.6411"
+         id="tspan3443">представлению участников!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.24508095px;line-height:125%;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.16976786;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -644,7 +639,7 @@
          style="font-size:45px;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none"
          x="2008.6973"
          y="2121.7212"
-         id="tspan4518">Что это такое ?!</tspan></text>
+         id="tspan4518">Ты что творишь?!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Neucha;-inkscape-font-specification:'Neucha, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -655,7 +650,7 @@
          sodipodi:role="line"
          id="tspan3512"
          x="2202.4763"
-         y="2260.6331">Проснись!</tspan><tspan
+         y="2260.6331">Просыпайся!</tspan><tspan
          sodipodi:role="line"
          x="2202.4763"
          y="2316.8831"
@@ -688,6 +683,6 @@
          x="2694.9297"
          y="3825.3547"
          style="font-size:39.2102623px;letter-spacing:1.49000001px;fill:#000000;stroke-width:0.33399999;stroke-miterlimit:4;stroke-dasharray:none"
-         dx="0 0 0">пок!</tspan></text>
+         dx="0 0 0">тык!</tspan></text>
   </g>
 </svg>
