@@ -19,6 +19,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Portuguese: Alexandre E. Almeida
+
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
