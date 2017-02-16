@@ -19,6 +19,7 @@ License
 * Mexicano: RJ Quiralta
 * Portuguese: Alexandre E. Almeida
 * Russian: gleki, Denis "uncle Night" Prisukhin
+* Slovak: talime
 
 ## Artwork:
 
