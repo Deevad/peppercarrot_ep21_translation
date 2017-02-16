@@ -698,7 +698,7 @@
      showgrid="false"
      inkscape:zoom="0.36984715"
      inkscape:cx="2207.822"
-     inkscape:cy="776.14823"
+     inkscape:cy="884.30102"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -711,11 +711,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts_and_Crafts/Translation P&amp;C/GIT/peppercarrot_ep21_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -969,7 +969,7 @@
        y="1584.5073"
        id="text4580-5-0-6-2-8-5-9-9"
        sodipodi:linespacing="125%"
-       transform="matrix(0.98486074,-0.43584499,0.54903014,1.8357446,579.568,-1908.8405)"><tspan
+       transform="matrix(0.98486074,-0.43584499,0.54903014,1.8357446,539.0107,-1903.4329)"><tspan
          sodipodi:role="line"
          id="tspan4582-6-9-1-3-9-5-3-3"
          x="787.65729"
@@ -1020,7 +1020,7 @@
        y="0"
        xlink:href="#use4378"
        id="use4380"
-       transform="translate(42.881492,-90.051133)"
+       transform="translate(34.770033,-106.27405)"
        width="100%"
        height="100%" />
     <use
@@ -1110,7 +1110,7 @@
        y="0"
        xlink:href="#use4380"
        id="use4382"
-       transform="matrix(0.74662583,0,0,0.74456881,103.72423,1232.3911)"
+       transform="matrix(0.74662583,0,0,0.74456881,109.78045,1244.4702)"
        width="100%"
        height="100%" />
     <use
