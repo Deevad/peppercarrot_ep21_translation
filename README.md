@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Czech: Kateřina Fleknová
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
