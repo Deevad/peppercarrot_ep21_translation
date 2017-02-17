@@ -17,6 +17,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
+* Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
 * Portuguese: Alexandre E. Almeida
 * Russian: gleki, Denis "uncle Night" Prisukhin
