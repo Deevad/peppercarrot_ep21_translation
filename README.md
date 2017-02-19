@@ -22,6 +22,7 @@ License
 * Portuguese: Alexandre E. Almeida
 * Russian: gleki, Denis "uncle Night" Prisukhin
 * Slovak: talime
+* Swedish: Mikael Olofsson
 
 ## Artwork:
 
