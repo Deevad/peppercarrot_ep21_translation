@@ -177,11 +177,11 @@
     <image
        sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep21_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -299,7 +299,7 @@
        y="1085.962"
        id="text4246-5"
        sodipodi:linespacing="125%"
-       transform="matrix(0.74816789,-0.23541302,0.23806107,0.97732438,238.79607,32.86467)"><tspan
+       transform="matrix(0.73851817,-0.23548995,0.2349906,0.97764375,256.57755,24.273886)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
@@ -340,7 +340,7 @@
        y="1300.7131"
        id="text4246-5-1-3"
        sodipodi:linespacing="125%"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-7.2837579,-35.713954)"><tspan
+       transform="matrix(0.82030595,-0.27019865,0.16586408,0.95253033,105.4584,60.508333)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -358,7 +358,7 @@
        y="1300.7131"
        id="text4246-5-1-3-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,125.17724,215.40246)"><tspan
+       transform="matrix(0.81836765,-0.2882309,0.14343217,0.92859629,148.09875,186.82496)"><tspan
          sodipodi:role="line"
          id="tspan3411"
          x="1131.04"
@@ -374,7 +374,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-189.76704,-1334.7266)"><tspan
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-209.76704,-1338.7266)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -387,7 +387,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-141.01584,-1087.0536)"><tspan
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-163.01584,-1093.0536)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -400,7 +400,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6-1-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.45709154,0.19808295,0.12462083,0.91251868,299.48835,-366.52798)"><tspan
+       transform="matrix(0.45709154,0.19808295,0.12462083,0.91251868,269.48835,-378.52798)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -503,15 +503,5 @@
          id="tspan3412"
          x="2204.0623"
          y="1391.1656" /></text>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#text4246-5-1-3"
-       id="use3418" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3418"
-       id="use3420" />
   </g>
 </svg>
