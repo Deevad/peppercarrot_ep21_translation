@@ -158,15 +158,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.49"
-     inkscape:cx="1240.5"
-     inkscape:cy="370.54876"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.5635"
+     inkscape:cx="1153.5886"
+     inkscape:cy="2635.2135"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -175,13 +175,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep21_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -299,7 +299,7 @@
        y="1085.962"
        id="text4246-5"
        sodipodi:linespacing="125%"
-       transform="matrix(0.89223285,-0.26389253,0.30573648,1.0303571,2.2077183e-5,6.5627487e-5)"><tspan
+       transform="matrix(0.83059181,-0.24994573,0.28461429,0.97590243,91.485079,42.270772)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
@@ -317,7 +317,7 @@
        y="1174.9954"
        id="text4246-5-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,7.6923298,15.976397)"><tspan
+       transform="matrix(0.98318423,-0.32383045,0.19879771,1.1415983,-123.82146,-66.474807)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
@@ -330,7 +330,7 @@
        y="1300.7131"
        id="text4246-5-1-3"
        sodipodi:linespacing="125%"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-8.4671899,-26.838214)"><tspan
+       transform="matrix(1.035651,-0.36339823,0.20940638,1.1857041,-194.83477,-125.41702)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -343,7 +343,7 @@
        y="1300.7131"
        id="text4246-5-1-3-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,138.78671,221.91134)"><tspan
+       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,139.55393,220.37691)"><tspan
          sodipodi:role="line"
          id="tspan3411"
          x="1131.04"
@@ -355,7 +355,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-138.49225,-1311.1906)"><tspan
+       transform="matrix(0.93726061,0.38878763,0.25553349,1.5192833,-496.06968,-1701.7133)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -368,7 +368,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-98.41229,-1065.1601)"><tspan
+       transform="matrix(0.96176878,0.4047485,0.26221537,1.5090985,-489.97856,-1458.9329)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -381,7 +381,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6-1-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.45709154,0.19808295,0.12462083,0.91251868,307.77237,-368.30313)"><tspan
+       transform="matrix(0.6448195,0.24309313,0.17580273,1.1198693,22.42503,-685.45793)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"

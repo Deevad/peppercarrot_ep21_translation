@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r13725"
    width="2646.3999"
    height="3736.5334"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P02.svg"
@@ -160,14 +160,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.48302635"
-     inkscape:cx="721.16664"
-     inkscape:cy="942.94252"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:zoom="0.7346227"
+     inkscape:cx="1642.9302"
+     inkscape:cy="2836.5889"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -176,13 +176,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/oet/peppercarrot/peppercarrot_ep21_translation/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/sv/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -297,7 +297,8 @@
        x="1174.0292"
        y="1085.962"
        id="text4246-5"
-       transform="matrix(0.89223285,-0.26389253,0.30573648,1.0303571,2.2077183e-5,6.5627487e-5)"><tspan
+       transform="matrix(0.80749237,-0.2369964,0.18948477,0.92534232,222.93575,83.271178)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
@@ -319,7 +320,8 @@
        x="1294.5164"
        y="1174.9954"
        id="text4246-5-1"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,2.2077183e-5,6.5627487e-5)"><tspan
+       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,1.678221,-2.5172327)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
@@ -336,7 +338,8 @@
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-7.2837579,-35.713954)"><tspan
+       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-10.042365,-34.058789)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -370,7 +373,8 @@
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3-6"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-189.76704,-1334.7266)"><tspan
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-205.76696,-1335.83)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
@@ -382,7 +386,8 @@
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3-6-1"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-141.01584,-1087.0536)"><tspan
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-162.53298,-1090.9157)"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
