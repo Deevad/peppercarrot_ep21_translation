@@ -603,15 +603,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1827"
-     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.67159613"
-     inkscape:cx="1139.5125"
-     inkscape:cy="2797.0333"
-     inkscape:window-x="85"
-     inkscape:window-y="-8"
+     inkscape:cx="961.57818"
+     inkscape:cy="630.55268"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="false" />
@@ -622,13 +622,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Documents\GitHub\peppercarrot_ep21_translation\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1038,7 +1038,7 @@
        y="3267.8125"
        id="text4246-3-2-1"
        sodipodi:linespacing="127%"
-       transform="matrix(0.65510423,-0.0274424,0.0577111,0.86290658,-282.74169,389.22305)"><tspan
+       transform="matrix(0.60766487,-0.02411829,0.05353195,0.75838234,-219.67892,726.54466)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.51785278px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';stroke:#000000;stroke-width:0.65863091;stroke-opacity:1"
          x="1041.0745"
@@ -1051,7 +1051,7 @@
        y="3289.8411"
        id="text4246-3"
        sodipodi:linespacing="127%"
-       transform="matrix(1.0242285,-0.10439088,-0.043955,0.98082457,953.23565,44.98305)"><tspan
+       transform="matrix(1.0242285,-0.10439088,-0.043955,0.98082457,954.72464,47.96103)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.51785278px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';stroke:#000000;stroke-width:0.65863091;stroke-opacity:1"
          x="706.49316"
@@ -1064,10 +1064,10 @@
        y="3276.0305"
        id="text4246-3-2"
        sodipodi:linespacing="127%"
-       transform="matrix(0.6351565,-0.03688341,0.12070125,0.86461789,711.65313,417.46291)"><tspan
+       transform="matrix(0.60729176,-0.0342731,0.11540601,0.80342715,781.02524,614.28337)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.51785278px;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';stroke:#000000;stroke-width:0.65863091;stroke-opacity:1"
-         x="1605.8558"
+         x="1605.7015"
          y="3276.0305"
          id="tspan4321-6-9">ロードアザイーフ </tspan></text>
     <text
