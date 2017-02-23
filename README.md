@@ -19,6 +19,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Korean: Jihoon Kim
+
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
