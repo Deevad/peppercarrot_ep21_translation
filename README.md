@@ -21,14 +21,13 @@ License
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
+* Korean: Jihoon Kim
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
 * Portuguese: Alexandre E. Almeida
 * Russian: gleki, Denis "uncle Night" Prisukhin
 * Slovak: talime
 * Swedish: Mikael Olofsson
-
-* Korean: Jihoon Kim
 
 ## Artwork:
 
