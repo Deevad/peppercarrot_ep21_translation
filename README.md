@@ -15,6 +15,7 @@ License
 
 * Chinese: Ran Zhuang
 * Czech: Kateřina Fleknová
+* Dutch: Midgard
 * English: Alex Gryson
 * French: David Revoy
 * Indonesian: Bonaventura Aditya Perdana
