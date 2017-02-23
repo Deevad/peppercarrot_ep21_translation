@@ -218,30 +218,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4919004"
-     inkscape:cx="1082.5052"
-     inkscape:cy="808.70302"
+     inkscape:zoom="0.42773948"
+     inkscape:cx="1175.4309"
+     inkscape:cy="2903.4822"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep21_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep21_The-Magic-Contest/lang/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -249,13 +249,13 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1930.2424,3273.7071 c 2.1923,-41.795 14.4283,-110.3527 203.0066,-100.7502 178.7982,9.1049 220.4027,17.8685 218.229,107.8496 -2.3816,98.5898 -85.4127,96.2396 -211.3055,103.1639 -129.7818,7.1385 -211.9443,-50.1936 -209.9301,-110.2633 z"
+       d="m 1936.0523,3261.0178 c 2.0834,-30.366 13.7119,-80.1763 192.9263,-73.1996 169.9201,6.6152 209.4587,12.9823 207.393,78.3576 -2.2634,71.63 -81.1716,69.9224 -200.8132,74.9533 -123.3375,5.1864 -201.4203,-36.4679 -199.5061,-80.1113 z"
        id="path3280-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 2196.4143,3182.4188 c 26.5819,-31.8748 16.5385,-82.124 4.2645,-112.193 23.6156,30.5633 34.1422,61.98 22.5076,112.0196 -24.3699,104.812 -36.6997,109.1997 -36.6997,109.1997 z"
+       d="m 2192.9273,3189.3928 c 26.5819,-31.8748 16.5385,-82.124 4.2645,-112.193 23.6156,30.5633 34.1422,61.98 22.5076,112.0196 -24.3699,104.812 -36.6997,109.1997 -36.6997,109.1997 z"
        id="path4064"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
