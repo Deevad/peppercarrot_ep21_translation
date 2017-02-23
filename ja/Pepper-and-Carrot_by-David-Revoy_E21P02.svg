@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P02.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4210"
+       x="-0.0015578248"
+       width="1.0031157"
+       y="-0.0045528179"
+       height="1.0091056">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2079876"
+         id="feGaussianBlur4212" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4218"
+       x="-0.0015404148"
+       width="1.0030808"
+       y="-0.0047074384"
+       height="1.0094149">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.19873465"
+         id="feGaussianBlur4220" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4202"
+       x="-0.0016505915"
+       width="1.0033011"
+       y="-0.0039833132"
+       height="1.0079666">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11736083"
+         id="feGaussianBlur4204" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4202-2"
+       x="-0.0016505915"
+       width="1.0033011"
+       y="-0.0039833132"
+       height="1.0079666">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11736083"
+         id="feGaussianBlur4204-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4325"
+       x="-0.003899595"
+       width="1.0077991"
+       y="-0.012803033"
+       height="1.0256062">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3730953"
+         id="feGaussianBlur4327" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4369"
+       x="-0.0062486199"
+       width="1.0124972"
+       y="-0.023161722"
+       height="1.0463234">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69985892"
+         id="feGaussianBlur4371" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4369-7"
+       x="-0.0062486199"
+       width="1.0124972"
+       y="-0.023161722"
+       height="1.0463234">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69985892"
+         id="feGaussianBlur4371-9" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.63880235"
+     inkscape:cx="1234.8701"
+     inkscape:cy="1189.4316"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 257.31404,537.19297 c 8.4761,-58.60247 48.05914,-92.58435 227.01126,-82.47863 95.8564,5.41313 236.35026,-0.49479 225.04882,85.34802 -11.30155,85.8427 -182.93829,78.28693 -215.43016,80.45849 -32.49185,2.17164 -185.94328,0.18159 -214.02684,-28.85653 -17.57965,-18.17707 -24.01576,-36.32803 -22.60308,-54.47135 z"
+       id="path4546-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 315.29772,885.67728 c 5.19492,-44.78074 39.79386,-83.09934 79.54991,-91.50231 39.75599,-8.40306 370.14496,-4.92192 395.50291,5.29749 25.35787,10.21959 63.95781,17.33441 55.64757,94.08484 -8.31043,76.75051 -55.26547,94.46462 -102.70095,97.61772 -47.4354,3.15291 -354.43269,11.79188 -387.16425,-18.74023 -18.31113,-17.0807 -40.85032,-36.65649 -40.83519,-86.75751 z"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 708.28728,324.66682 c -17.80302,-2.67292 -29.44884,-2.78409 -47.16698,2.02614 -5.00825,1.47381 -10.08814,3.34728 -14.32577,6.39934 -3.69997,4.15642 -3.59037,10.33514 -1.29957,15.14622 2.82169,7.17956 8.76937,13.55058 8.49474,21.65616 -0.3429,5.89548 -5.65216,9.33006 -9.84801,12.60191 -10.85858,8.12974 -22.88187,14.83631 -32.3875,24.65688 -11.42122,10.36094 -22.68704,22.09158 -27.50316,37.10006 -1.80609,5.97046 -2.86049,12.46873 -0.93358,18.54832 4.23596,15.82051 17.61171,29.44221 33.99141,32.24046 10.61786,0.79327 21.63745,-7.82582 21.71957,-18.81268 0.13014,-5.79897 -3.67523,-10.74961 -8.17826,-13.98082 -7.16767,-7.4865 -9.54283,-18.69535 -7.02055,-28.6264 1.9475,-8.22998 6.45887,-15.76324 12.48174,-21.66268 6.07198,-10.1853 17.74223,-14.32617 27.37733,-20.2179 4.36179,-2.75728 8.81469,-5.98576 11.38712,-10.53486 2.12502,-7.35941 -2.27973,-14.38799 -6.69225,-19.90395 -4.40425,-5.80612 -10.16904,-12.0434 -9.41757,-19.89494 -0.21215,-5.51878 6.17387,-6.74567 9.97179,-9.0346 10.38423,-5.22283 20.05102,-6.98163 39.3495,-7.70666 z"
+       id="path4496"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1119.5437,840.64097 c -113.8785,125.0678 -279.41233,101.54529 -356.99074,52.03846 -77.57834,-49.50677 -21.03459,-49.26335 -21.03459,-49.26335 l 31.24176,8.1154 c -28.183,-7.45936 130.87131,147.10952 346.78357,-10.89051 z"
+       id="path3541"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 895.21387,1981.546 c 9.26228,-53.2056 86.95005,-90.3076 282.50033,-75.2216 104.7472,8.0807 223.8387,14.6773 211.4891,92.6511 -12.3498,77.9738 -199.5723,79.9522 -235.0777,80.8695 -35.5056,0.9175 -210.32525,-3.6245 -241.01351,-31.046 -19.21031,-17.1653 -19.44193,-50.7408 -17.89822,-67.253 z"
+       id="path4546-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1208.9581,1837.3548 c -51.8093,6.6291 -63.1327,26.4049 -72.7535,39.757 3.2832,4.0843 7.7777,12.4211 7.7777,12.4211 0,0 -21.2954,24.4542 -26.3512,36.4684 -5.0561,12.014 13.5408,18.2582 13.5408,18.2582 0,0 28.706,-45.6159 40.7672,-52.8813 -9.4456,-10.8353 -10.9712,-13.8404 -15.9223,-16.3387 2.967,-9.4271 34.7001,-34.7514 52.9413,-37.6847 z"
+       id="path4456"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+       d="m 1061.2506,2038.2771 c 30.2041,16.8002 30.8655,27.0815 0.7221,30.5655 30.2766,8.5327 23.8611,13.8009 8.8877,18.3075 39.3876,43.2361 28.8806,69.9222 17.2001,96.2189 41.4078,-11.3182 43.391,12.2633 54.0081,28.2018 8.9324,-31.1032 13.6796,-10.9152 17.2591,23.5848 9.0754,-40.2374 15.5826,-43.2964 19.7482,-12.4523 8.7282,-25.3858 20.2144,-34.94 34.8704,-26.2963 27.3877,-23.2 37.9949,9.7363 54.0257,24.5285 6.5927,-26.6079 19.1801,-27.1137 33.6791,-19.2975 6.9894,-11.1561 12.3807,-27.5003 30.4148,-2.8062 4.4829,-21.9903 13.5127,-6.1385 21.1453,-1.916 -9.2034,-12.7374 7.0975,-15.8995 52.7341,-8.0474 -17.5981,-6.9579 -16.0981,-15.5653 7.9427,-26.1197 -26.4434,-12.2257 -25.9828,-25.8511 -11.3883,-40.2116 -30.0776,-22.6439 0.6651,-43.0935 16.2319,-64.0906 -30.9948,9.4605 -55.6266,8.6448 -60.6887,-23.7739 -47.2317,24.1373 -40.0333,10.4938 -35.3166,-1.4274 -29.5447,29.6732 -27.4118,3.0771 -34.7119,-6.7632 -80.3094,35.6354 -76.7604,-2.4711 -92.8293,-23.3263 -7.3585,43.5947 -23.8048,26.4391 -40.2891,9.0323 -0.077,36.9635 -10.0244,26.0441 -19.7657,16.1257 -1.577,15.9211 -11.5259,20.4016 -32.7631,9.4568 15.061,13.3257 5.5625,15.4187 -41.1166,0.5066 z"
+       id="path4289"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1300.9086,2208.0496 c 4.1473,-39.2223 38.9339,-66.5733 126.4961,-55.4523 46.9029,5.9571 100.2289,10.8201 94.6991,68.301 -5.5299,57.481 -89.3631,58.9394 -105.2615,59.6156 -15.8984,0.6764 -94.1781,-2.6718 -107.9195,-22.8865 -8.6019,-12.6539 -8.7056,-37.4053 -8.0142,-49.5778 z"
+       id="path4546-6-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 1946.6392,2123.6849 c -2.1504,-23.3922 12.1124,-35.0287 25.0987,-40.541 16.4582,-6.9861 135.1863,-14.7723 149.5133,4.8085 13.1948,18.0333 22.5695,51.1875 -16.83,67.5649 -39.3998,16.3773 -105.155,7.4067 -116.3483,4.429 -11.193,-2.9777 -39.1952,-10.951 -41.4337,-36.2614 z"
+       id="path3659-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1982.1675,2095.4596 c 0.3856,-31.752 -21.3304,-64.1917 -32.5323,-69.3608 -11.2018,-5.1692 49.8903,6.7173 65.5334,65.5673 15.6432,58.8498 -25.2443,31.1505 -25.2443,31.1505 z"
+       id="path4035"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';writing-mode:lr;"
+       x="485.63678"
+       y="518.64081"
+       id="text4246-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4230">それでも一緒に</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4232">来ないつもりなの?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;writing-mode:lr;"
+       x="580.04688"
+       y="856.25879"
+       id="text4246-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4234">その通り</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4236">ケイオサーは呪術を使うが</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4238">見世物ではない</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45.00749969px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4210)"
+       x="1174.0292"
+       y="1085.962"
+       id="text4246-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.93005308,-0.26389253,0.15806901,1.0303571,113.45465,6.5627487e-5)"><tspan
+         sodipodi:role="line"
+         id="tspan4216"
+         x="1174.0292"
+         y="1085.962">コモナ新聞</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4218"
+         x="1174.0292"
+         y="1142.2214" /><tspan
+         sodipodi:role="line"
+         id="tspan4220"
+         x="1174.0292"
+         y="1198.4808" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.44250011px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4218)"
+       x="1294.5164"
+       y="1174.9954"
+       id="text4246-5-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,3.5801795,0.89510499)"><tspan
+         sodipodi:role="line"
+         id="tspan4222"
+         x="1294.5164"
+         y="1174.9954">新しいアリーナの開会式</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4224"
+         x="1294.5164"
+         y="1194.2985">本日</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.78137493px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-8.1787973,-26.76356)"><tspan
+         sodipodi:role="line"
+         id="tspan4226"
+         x="1131.04"
+         y="1300.7131">住人は税について心配</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78128052px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202-2)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,127.86236,218.98262)"><tspan
+         sodipodi:role="line"
+         id="tspan4228"
+         x="1131.04"
+         y="1300.7131">チケット完売、成功は確実! </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.78138065px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4325)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-201.40255,-1334.7266)"><tspan
+         sodipodi:role="line"
+         id="tspan4210"
+         x="1131.04"
+         y="1300.7131">アーの地での政治的緊張</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.78138065px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4369)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-6-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-158.91663,-1087.9486)"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="1131.04"
+         y="1300.7131">アーの通貨が80%のテリトリーに流通</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.78126665px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4369-7);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';writing-mode:lr;"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-6-1-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.45709154,0.19808295,0.12462083,0.91251868,299.48835,-366.52798)"><tspan
+         sodipodi:role="line"
+         id="tspan4214">すばらしい視力です! </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';writing-mode:lr;"
+       x="1131.7324"
+       y="1981.7657"
+       id="text4246-2-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4242">参加を許してくれて</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4244">ありがとう!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';writing-mode:lr;"
+       x="1241.5112"
+       y="2102.9883"
+       id="text4246-2-3-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4250">勝つつもり!</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4252">約束だから!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium'"
+       x="1411.5112"
+       y="2209.4883"
+       id="text4246-2-3-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4256">じゃあ</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4258">今夜!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2038.8628"
+       y="2122.2102"
+       id="text4246-2-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="2038.8628"
+         y="2122.2102"
+         id="tspan4187-2">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.56252658px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1-9);font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-anchor:start;text-align:start;writing-mode:lr;"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.66983444,-0.42899526,0.00573176,0.82056131,1671.7153,441.03315)"><tspan
+         sodipodi:role="line"
+         id="tspan4240">バン!</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4050"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:6px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Clean;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4052"><rect
+           id="rect4054"
+           width="1.5832587"
+           height="22.165623"
+           x="1378.2268"
+           y="1077.4476" /></flowRegion><flowPara
+         id="flowPara4056" /></flowRoot>  </g>
+</svg>

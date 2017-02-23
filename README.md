@@ -13,11 +13,21 @@ License
 
 ## Translators and correctors:
 
+* Chinese: Ran Zhuang
+* Czech: Kateřina Fleknová
 * English: Alex Gryson
-
 * French: David Revoy
-
+* Indonesian: Bonaventura Aditya Perdana
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
+* Japanese: guruguru
+* Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
+* Portuguese: Alexandre E. Almeida
+* Russian: gleki, Denis "uncle Night" Prisukhin
+* Slovak: talime
+* Swedish: Mikael Olofsson
+
+* Korean: Jihoon Kim
 
 ## Artwork:
 

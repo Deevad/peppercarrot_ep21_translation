@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P02.svg">
@@ -158,30 +158,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.15790217"
-     inkscape:cx="-336.48325"
-     inkscape:cy="2163.2187"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="1.1172693"
+     inkscape:cx="1252.2428"
+     inkscape:cy="2693.0536"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep21_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -196,7 +196,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 301.41236,887.88107 c 5.53227,-49.66057 42.378,-92.15481 84.71573,-101.47346 42.33766,-9.31875 394.18141,-5.45827 421.18606,5.87477 27.00456,11.33323 68.1111,19.22336 59.2612,104.33741 -8.85009,85.11413 -58.85428,104.75861 -109.37012,108.25531 -50.51576,3.4965 -377.44884,13.0768 -412.30591,-20.78242 -19.50024,-18.94201 -43.50307,-40.65101 -43.48696,-96.21161 z"
+       d="m 326.25573,892.28079 c 5.02672,-47.85411 38.50545,-88.80257 76.97432,-97.78225 38.46881,-8.97977 358.16077,-5.25972 382.69771,5.66107 24.53686,10.92097 61.88704,18.52409 53.84586,100.54202 -8.04136,82.01801 -53.47613,100.94787 -99.37579,104.31737 -45.89958,3.3693 -342.95723,12.6012 -374.62903,-20.0264 -17.71828,-18.25297 -39.52771,-39.17228 -39.51307,-92.71181 z"
        id="path4010"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -208,7 +208,7 @@
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="M 1168.0796,835.09728 C 1057.6377,967.74155 882.15697,955.72384 797.11624,911.70094 712.07558,867.6781 771.45002,864.01032 771.45002,864.01032 l 33.38661,5.93526 c -30.12794,-5.49233 148.088,137.70612 363.24297,-34.8483 z"
+       d="m 1119.5437,840.64097 c -113.8785,125.0678 -279.41233,101.54529 -356.99074,52.03846 -77.57834,-49.50677 -21.03459,-49.26335 -21.03459,-49.26335 l 31.24176,8.1154 c -28.183,-7.45936 130.87131,147.10952 346.78357,-10.89051 z"
        id="path3541"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccc" />
@@ -272,7 +272,7 @@
          id="tspan4035">want to come with us?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="580.04688"
        y="856.25879"
        id="text4246-2-3"
@@ -281,7 +281,7 @@
          style="font-size:45px"
          x="580.04688"
          y="856.25879"
-         id="tspan4187">Certain. We do</tspan><tspan
+         id="tspan4187">I'm certain. We do</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="580.04688"
@@ -294,71 +294,71 @@
          id="tspan4042">not spectacles!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:9.00162506px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4210);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00162506px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4210)"
        x="1174.0292"
        y="1085.962"
        id="text4246-5"
        sodipodi:linespacing="125%"
-       transform="matrix(0.89223285,-0.26389253,0.30573648,1.0303571,2.2077183e-5,6.5627487e-5)"><tspan
+       transform="matrix(0.81617603,-0.24118584,0.17851212,0.94169981,224.67399,68.479077)"><tspan
          sodipodi:role="line"
-         style="font-size:45.00812149px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
          y="1085.962"
          id="tspan4217">The KOMONAN</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45.00812149px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
          y="1142.2222"
          id="tspan4207" /><tspan
          sodipodi:role="line"
-         style="font-size:45.00812149px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
          y="1198.4823"
          id="tspan4209" /></text>
     <text
        xml:space="preserve"
-       style="font-size:3.08855915px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4218);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08855915px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4218)"
        x="1294.5164"
        y="1174.9954"
        id="text4246-5-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,2.2077183e-5,6.5627487e-5)"><tspan
          sodipodi:role="line"
-         style="font-size:15.4427948px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
          y="1174.9954"
-         id="tspan4209-0">INAUGURATION OF THE NEW ARENA</tspan><tspan
+         id="tspan4209-0">OPENING CEREMONY OF THE NEW ARENA</tspan><tspan
          sodipodi:role="line"
-         style="font-size:15.4427948px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
          y="1194.2988"
          id="tspan4222">TODAY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.15627003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4202);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202)"
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3"
        sodipodi:linespacing="125%"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-7.2837579,-35.713954)"><tspan
+       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-9.0738366,-34.818915)"><tspan
          sodipodi:role="line"
-         style="font-size:10.78135014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
          y="1300.7131"
          id="tspan4196">RESIDENTS WORRIED ABOUT </tspan><tspan
          sodipodi:role="line"
-         style="font-size:10.78135014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
          y="1314.1898"
          id="tspan4048">THEIR TAXES </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:10.78128052px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4202-2);font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal'"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78128052px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202-2)"
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,125.17724,215.40246)"><tspan
+       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,127.86236,215.40246)"><tspan
          sodipodi:role="line"
          id="tspan3411"
          x="1131.04"
@@ -369,27 +369,27 @@
          id="tspan4060">GUARANTEED! </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.15627003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4325);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4325)"
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3-6"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-189.76704,-1334.7266)"><tspan
+       transform="matrix(0.7407423,0.32265096,0.201955,1.3268708,-205.87775,-1377.971)"><tspan
          sodipodi:role="line"
-         style="font-size:10.78135014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
          y="1300.7131"
          id="tspan4196-6">POLITICAL TENSIONS IN LAND OF AH </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.15627003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter4369);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4369)"
        x="1131.04"
        y="1300.7131"
        id="text4246-5-1-3-6-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-141.01584,-1087.0536)"><tspan
+       transform="matrix(0.7407423,0.2965061,0.201955,1.3197427,-161.60175,-1088.8437)"><tspan
          sodipodi:role="line"
-         style="font-size:10.78135014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
          y="1300.7131"
          id="tspan4196-6-8">AH CURRENTLY OCCUPIES 80% OF TERRITORIES </tspan></text>
@@ -492,5 +492,5 @@
            height="22.165623"
            x="1378.2268"
            y="1077.4476" /></flowRegion><flowPara
-         id="flowPara4056"></flowPara></flowRoot>  </g>
+         id="flowPara4056" /></flowRoot>  </g>
 </svg>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P02.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4210"
+       x="-0.0015578248"
+       width="1.0031157"
+       y="-0.0045528179"
+       height="1.0091056">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2079876"
+         id="feGaussianBlur4212" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4218"
+       x="-0.0015404148"
+       width="1.0030808"
+       y="-0.0047074384"
+       height="1.0094149">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.19873465"
+         id="feGaussianBlur4220" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4202"
+       x="-0.0016505915"
+       width="1.0033011"
+       y="-0.0039833132"
+       height="1.0079666">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11736083"
+         id="feGaussianBlur4204" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4202-2"
+       x="-0.0016505915"
+       width="1.0033011"
+       y="-0.0039833132"
+       height="1.0079666">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11736083"
+         id="feGaussianBlur4204-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4325"
+       x="-0.003899595"
+       width="1.0077991"
+       y="-0.012803033"
+       height="1.0256062">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3730953"
+         id="feGaussianBlur4327" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4369"
+       x="-0.0062486199"
+       width="1.0124972"
+       y="-0.023161722"
+       height="1.0463234">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69985892"
+         id="feGaussianBlur4371" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4369-7"
+       x="-0.0062486199"
+       width="1.0124972"
+       y="-0.023161722"
+       height="1.0463234">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69985892"
+         id="feGaussianBlur4371-9" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.5635"
+     inkscape:cx="1153.5886"
+     inkscape:cy="2635.2135"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 274.20981,534.14341 c 7.90373,-58.88001 44.81384,-93.02283 211.68183,-82.86924 89.3835,5.43875 220.3902,-0.49715 209.85192,85.75223 -10.53839,86.24926 -170.58499,78.65771 -200.88277,80.83955 -30.29778,2.18193 -173.38707,0.18245 -199.57422,-28.99319 -16.39255,-18.26317 -22.39404,-36.50009 -21.07676,-54.72935 z"
+       id="path4546-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 301.41236,887.88107 c 5.53227,-49.66057 42.378,-92.15481 84.71573,-101.47346 42.33766,-9.31875 394.18141,-5.45827 421.18606,5.87477 27.00456,11.33323 68.1111,19.22336 59.2612,104.33741 -8.85009,85.11413 -58.85428,104.75861 -109.37012,108.25531 -50.51576,3.4965 -377.44884,13.0768 -412.30591,-20.78242 -19.50024,-18.94201 -43.50307,-40.65101 -43.48696,-96.21161 z"
+       id="path4010"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 708.28728,324.66682 c -17.80302,-2.67292 -29.44884,-2.78409 -47.16698,2.02614 -5.00825,1.47381 -10.08814,3.34728 -14.32577,6.39934 -3.69997,4.15642 -3.59037,10.33514 -1.29957,15.14622 2.82169,7.17956 8.76937,13.55058 8.49474,21.65616 -0.3429,5.89548 -5.65216,9.33006 -9.84801,12.60191 -10.85858,8.12974 -22.88187,14.83631 -32.3875,24.65688 -11.42122,10.36094 -22.68704,22.09158 -27.50316,37.10006 -1.80609,5.97046 -2.86049,12.46873 -0.93358,18.54832 4.23596,15.82051 17.61171,29.44221 33.99141,32.24046 10.61786,0.79327 21.63745,-7.82582 21.71957,-18.81268 0.13014,-5.79897 -3.67523,-10.74961 -8.17826,-13.98082 -7.16767,-7.4865 -9.54283,-18.69535 -7.02055,-28.6264 1.9475,-8.22998 6.45887,-15.76324 12.48174,-21.66268 6.07198,-10.1853 17.74223,-14.32617 27.37733,-20.2179 4.36179,-2.75728 8.81469,-5.98576 11.38712,-10.53486 2.12502,-7.35941 -2.27973,-14.38799 -6.69225,-19.90395 -4.40425,-5.80612 -10.16904,-12.0434 -9.41757,-19.89494 -0.21215,-5.51878 6.17387,-6.74567 9.97179,-9.0346 10.38423,-5.22283 20.05102,-6.98163 39.3495,-7.70666 z"
+       id="path4496"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="M 1168.0796,835.09728 C 1057.6377,967.74155 882.15697,955.72384 797.11624,911.70094 712.07558,867.6781 771.45002,864.01032 771.45002,864.01032 l 33.38661,5.93526 c -30.12794,-5.49233 148.088,137.70612 363.24297,-34.8483 z"
+       id="path3541"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 906.13349,1958.7444 c 8.64772,-33.5347 81.1808,-56.9196 263.75601,-47.4112 97.7971,5.0932 208.9868,9.251 197.4566,58.3967 -11.5304,49.1458 -186.3304,50.3928 -219.48,50.971 -33.1498,0.5782 -196.36991,-2.2845 -225.02197,-19.5679 -17.93567,-10.819 -18.15193,-31.9812 -16.71064,-42.3886 z"
+       id="path4546-6-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1208.9581,1837.3548 c -51.8093,6.6291 -63.1327,26.4049 -72.7535,39.757 3.2832,4.0843 7.7777,12.4211 7.7777,12.4211 0,0 -21.2954,24.4542 -26.3512,36.4684 -5.0561,12.014 13.5408,18.2582 13.5408,18.2582 0,0 28.706,-45.6159 40.7672,-52.8813 -9.4456,-10.8353 -10.9712,-13.8404 -15.9223,-16.3387 2.967,-9.4271 34.7001,-34.7514 52.9413,-37.6847 z"
+       id="path4456"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1068.5447,2006.1343 c 26.9646,14.7312 27.5551,23.7463 0.6447,26.8013 27.0293,7.4819 21.3019,12.1013 7.9344,16.0529 35.1631,37.9114 25.7832,61.311 15.3554,84.3692 36.9666,-9.9243 38.7371,10.7531 48.2154,24.7287 7.9744,-27.2728 12.2124,-9.571 15.4081,20.6803 8.1019,-35.2821 13.9113,-37.9644 17.6301,-10.9188 7.7921,-22.2595 18.0463,-30.637 31.1304,-23.0578 24.4502,-20.3429 33.9197,8.5372 48.2312,21.5077 5.8855,-23.331 17.1229,-23.7746 30.0668,-16.9209 6.2398,-9.7822 11.0528,-24.1136 27.1527,-2.4607 4.002,-19.2821 12.0634,-5.3825 18.8774,-1.68 -8.2163,-11.1687 6.3362,-13.9414 47.0781,-7.0563 -15.7106,-6.101 -14.3715,-13.6484 7.091,-22.903 -23.6074,-10.7201 -23.1962,-22.6675 -10.167,-35.2594 -26.8517,-19.8553 0.5938,-37.7865 14.4909,-56.1977 -27.6705,8.2954 -49.6604,7.5802 -54.1795,-20.8461 -42.166,21.1647 -35.7396,9.2015 -31.5287,-1.2516 -26.376,26.0189 -24.4718,2.6981 -30.989,-5.9303 -71.6958,31.2468 -68.5275,-2.1668 -82.873,-20.4536 -6.5692,38.2259 -21.2516,23.1831 -35.9677,7.9199 -0.069,32.4114 -8.9494,22.8367 -17.6459,14.1398 -1.4078,13.9604 -10.2897,17.8891 -29.249,8.2922 13.4455,11.6846 4.9658,13.5198 -36.7068,0.4442 z"
+       id="path4289"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1225.7296,2180.2644 c 5.3761,-34.0408 50.469,-57.7786 163.9736,-48.1267 60.7992,5.1701 129.9244,9.3907 122.7562,59.278 -7.1683,49.8874 -115.8392,51.1532 -136.4479,51.7401 -20.6087,0.5871 -122.0806,-2.3189 -139.8932,-19.8631 -11.1504,-10.9823 -11.2849,-32.4638 -10.3887,-43.0283 z"
+       id="path4546-6-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 1935.6939,2123.6849 c -2.2769,-23.3922 12.8251,-35.0287 26.5755,-40.541 17.4266,-6.9861 143.1405,-14.7723 158.3105,4.8085 13.9712,18.0333 23.8975,51.1875 -17.8203,67.5649 -41.718,16.3773 -111.3422,7.4067 -123.194,4.429 -11.8516,-2.9777 -41.5014,-10.951 -43.8717,-36.2614 z"
+       id="path3659-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1982.1675,2095.4596 c 0.3856,-31.752 -21.3304,-64.1917 -32.5323,-69.3608 -11.2018,-5.1692 49.8903,6.7173 65.5334,65.5673 15.6432,58.8498 -25.2443,31.1505 -25.2443,31.1505 z"
+       id="path4035"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;"
+       x="330.94928"
+       y="518.64081"
+       id="text4246-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-anchor:start;text-align:start;"
+         x="485.63678"
+         y="518.64081"
+         id="tspan3410">依然肯定不想和</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-anchor:start;text-align:start;"
+         x="485.63678"
+         y="574.89081"
+         id="tspan3430">我们一起去么？</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="580.22266"
+       y="856.25879"
+       id="text4246-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;"
+         x="348.89453"
+         y="856.25879"
+         id="tspan4187">肯定。</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;"
+         x="348.89453"
+         y="912.50879"
+         id="tspan3416">我们是做混沌阿魔法的，</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;"
+         x="348.89453"
+         y="968.75879"
+         id="tspan3418">不是去演戏的！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00162506px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77099991;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4210)"
+       x="1174.0292"
+       y="1085.962"
+       id="text4246-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.83059181,-0.24994573,0.28461429,0.97590243,91.485079,42.270772)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1174.0292"
+         y="1085.962"
+         id="tspan4207">科魔那日报</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1174.0292"
+         y="1142.2222"
+         id="tspan4209" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08855915px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4218)"
+       x="1294.5164"
+       y="1174.9954"
+       id="text4246-5-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98318423,-0.32383045,0.19879771,1.1415983,-123.82146,-66.474807)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1294.5164"
+         y="1174.9954"
+         id="tspan4222">今日举行新赛场的揭幕仪式</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.035651,-0.36339823,0.20940638,1.1857041,-194.83477,-125.41702)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1131.04"
+         y="1300.7131"
+         id="tspan4196">市民们为他们的税务担心</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78128052px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202-2)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,139.55393,220.37691)"><tspan
+         sodipodi:role="line"
+         id="tspan3411"
+         x="1131.04"
+         y="1300.7131">内部销售的受欢迎程度让人意想不到</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4325)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.93726061,0.38878763,0.25553349,1.5192833,-496.06968,-1701.7133)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1131.04"
+         y="1300.7131"
+         id="tspan4196-6">阿系魔法地界的政治危机 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4369)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-6-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96176878,0.4047485,0.26221537,1.5090985,-489.97856,-1458.9329)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1131.04"
+         y="1300.7131"
+         id="tspan4196-6-8">阿系魔法目前占据着80%的土地</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4369-7)"
+       x="1131.04"
+       y="1300.7131"
+       id="text4246-5-1-3-6-1-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.6448195,0.24309313,0.17580273,1.1198693,22.42503,-685.45793)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1131.04"
+         y="1300.7131"
+         id="tspan4196-6-8-0">群众的眼睛是雪亮的！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1131.7324"
+       y="1981.7657"
+       id="text4246-2-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+         x="1131.7324"
+         y="1981.7657"
+         id="tspan4412">多谢允许我去参加！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1245.1847"
+       y="2067.8862"
+       id="text4246-2-3-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1245.1847"
+         y="2067.8862"
+         id="tspan4452">我会赢的。</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1245.1847"
+         y="2124.1362"
+         id="tspan3436">保证！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1380.8989"
+       y="2200.6719"
+       id="text4246-2-3-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3413"
+         x="1380.8989"
+         y="2200.6719">晚上见！</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="2038.8628"
+       y="2122.2102"
+       id="text4246-2-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="2038.8628"
+         y="2122.2102"
+         id="tspan4187-2">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.66983444,-0.42899526,0.00573176,0.82056131,1671.7153,441.03315)"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#ffffff"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.40014648px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei'"
+           id="tspan4617">嗙！</tspan></tspan></text>
+  </g>
+</svg>
