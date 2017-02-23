@@ -17,6 +17,7 @@ License
 * Czech: Kateřina Fleknová
 * English: Alex Gryson
 * French: David Revoy
+* Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
 * Lojban: Gleki Arxokuna
