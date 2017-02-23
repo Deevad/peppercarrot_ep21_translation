@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-7"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-9"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-0"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-7-5"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-9-9"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-2-2"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-0-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-2-8"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-5"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-2"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-0"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-1"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-5"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-1"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-29"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-3"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-2-4"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-0-7"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-6-8"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-1-4"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-5-5"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4375-4-1-1-1-9-6-9-2-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-8-1-0-2-2-06"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-2-77-6-0-8-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-9-2-2-9-2"
+         operator="dilate"
+         radius="4"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-0-8-6-3-7-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.35198687"
+     inkscape:cx="1523.6355"
+     inkscape:cy="790.55169"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep21_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P04.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P04.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="transla-notes"
+     style="display:inline">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.481;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:#565656;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m -462.00591,562.85601 0,189.0351 203.83,0 0,-90.9805 10,0 0,15.6308 30.9825,-26.9824 -30.9825,-26.9804 0,16.6171 -10,0 0,-76.3397 -203.83,0 z"
+       id="rect4191-6"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4212-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.3241539px;line-height:125%;font-family:Lavi;-inkscape-font-specification:'Lavi, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:0.481;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-232.31551,-445.38759)"><flowRegion
+         id="flowRegion4214-5"><rect
+           id="rect4216-3"
+           width="291.95547"
+           height="247.52747"
+           x="-275.14545"
+           y="1061.6674" /></flowRegion><flowPara
+         id="flowPara4218-5">Edit this one,</flowPara><flowPara
+         id="flowPara4562">all other one</flowPara><flowPara
+         id="flowPara4564">are linked</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-1)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580-1-7-3-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.4758134,-0.86082261,-0.2724569,2.28102,-925.71237,-2229.4699)"><tspan
+         sodipodi:role="line"
+         id="tspan4582-8-5-6-1"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff">짝짝</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles"
+     style="display:inline">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 814.47984,2076.863 c 25.50869,1.737 31.18253,8.7417 40.02393,13.7645 -3.43934,2.0064 -8.9889,9.9212 -8.9889,9.9212 0,0 32.58215,10.7061 36.22844,16.7304 3.6465,6.0243 -15.3876,18.5407 -15.3876,18.5407 0,0 -32.24975,-22.2963 -46.26108,-27.2208 2.45492,-3.7397 10.19678,-11.1438 15.66548,-16.0353 0,0 -4.48105,-14.0884 -21.28027,-15.7007 z"
+       id="path4456-3-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 757.3144,1742.177 c -21.0588,-42.0512 -43.598,-49.8896 -59.3716,-56.8038 -3.07396,2.9972 -9.9693,7.3028 -9.9693,7.3028 0,0 -29.9225,-15.6811 -43.10282,-18.946 -13.1803,-3.265 -16.1629,8.7756 -16.1629,8.7756 0,0 57.47284,31.5265 67.97578,40.8937 7.94803,-8.5554 13.39414,-11.7166 14.44681,-15.9662 10.06068,1.7404 38.18304,19.9826 46.18403,34.7439 z"
+       id="path4456"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 780.88453,126.5333 c -30.95877,6.73167 -61.11558,18.86595 -93.00605,19.32047 l 25.40763,15.34606 c -10.98606,6.89774 -24.70452,5.6109 -37.49528,7.10322 l 14.36808,12.34245 c -26.12482,15.91471 -54.11624,17.40357 -81.20539,25.86495 l 26.53,19.3383 c 26.33144,-12.20851 50.34404,-29.13998 79.28368,-36.036 l -12.96782,-13.61426 c 9.62284,-3.96451 19.42327,-7.49852 30.01724,-9.10951 L 714.20985,151.5628 Z"
+       id="path4032"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <rect
+       rx="66.706841"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
+       id="rect4632-8"
+       width="563.58972"
+       height="267.9494"
+       x="127.50768"
+       y="126.61605"
+       ry="67.424454" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 309.03728,353.93652 c -5.03273,18.40711 -33.41798,19.95061 -43.86739,16.20911 21.06359,20.5918 20.32924,33.3858 -8.2691,35.3724 47.95991,37.1119 8.76768,31.496 1.03724,40.9065 37.6575,12.7896 20.80916,28.7065 14.10491,44.5515 43.28343,0.5443 29.11874,25.9434 30.9431,46.17215 3.66934,-9.4922 21.10164,-38.39075 22.15054,-6.2142 28.62952,-30.69815 63.11305,-50.52775 65.85116,3.1943 11.53528,-27.02615 23.03602,-38.44845 22.15064,-6.2142 28.58098,-41.92455 62.82691,-36.42575 91.10932,-5.3922 -14.61944,-23.31165 -3.43192,-41.68585 18.52142,-37.13025 -3.0781,-12.5422 4.33429,-21.1637 21.07392,-26.2835 -22.24427,-7.5763 -26.34383,-15.3912 14.95887,-23.8012 -31.429,-0.8135 -60.73668,-2.4802 -23.86372,-31.1607 -11.56806,-0.694 -39.01451,23.2379 -26.21793,-46.7992 -19.89194,22.4213 -41.11487,34.7962 -67.7304,-12.17081 -12.59578,23.46381 -34.44291,35.07461 -43.94753,5.7665 -3.4161,12.49461 -17.58133,17.19361 -29.6064,17.76341 -4.65012,-4.9631 -9.44626,-11.7041 -14.45122,-20.53611 -8.18009,18.54471 -20.41669,31.06901 -43.94743,5.7665 z"
+       id="path3549-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1676.3297,134.01506 c 31.4146,4.10878 62.4837,13.66842 94.2998,11.444 l -24.0297,17.42495 c 11.5263,5.95106 25.0883,3.51704 37.9592,3.93024 l -13.281,13.50516 c 27.3686,13.66521 55.3862,12.79882 83.09,18.95606 l -24.8127,21.49736 c -27.2635,-9.95478 -52.6128,-24.81052 -82.0291,-29.25256 l 11.779,-14.6549 c -9.9218,-3.14265 -19.9843,-5.84138 -30.676,-6.55727 l 16.2411,-16.94954 z"
+       id="path4032-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6"
+       width="526.88513"
+       height="271.86139"
+       x="1808.788"
+       y="130.67297"
+       ry="51.769714"
+       rx="48.623524" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1972.021,355.61539 c -6.3662,18.40711 -42.2723,19.95061 -55.4904,16.20911 26.6445,20.5918 25.7157,33.3858 -10.4599,35.3724 60.6672,37.1119 11.0907,31.496 1.312,40.9065 47.6352,12.7896 26.3228,28.7065 17.8421,44.5515 54.7515,0.5443 36.8338,25.9434 39.1415,46.17215 4.6417,-9.4922 26.6929,-38.39075 28.0196,-6.2142 36.2149,-30.69815 79.8351,-50.52775 83.2986,3.1943 14.5917,-27.02615 29.1396,-38.44845 28.0196,-6.2142 36.1538,-41.92455 79.4733,-36.42575 115.2492,-5.3922 -18.4928,-23.31165 -4.3412,-41.68585 23.4288,-37.13025 -3.8937,-12.5422 5.4828,-21.1637 26.6574,-26.2835 -28.1377,-7.5763 -33.3236,-15.3912 18.9224,-23.8012 -39.7561,-0.8135 -76.829,-2.4802 -30.1864,-31.1607 -14.633,-0.694 -49.3515,23.2379 -33.1645,-46.7992 -25.1624,22.4213 -52.0085,34.7962 -85.6758,-12.17081 -15.9332,23.46381 -43.5688,35.07461 -55.5917,5.7665 -4.3214,12.49461 -22.2398,17.19361 -37.451,17.76341 -5.882,-4.9631 -11.9489,-11.7041 -18.28,-20.53611 -10.3474,18.54471 -25.8263,31.06901 -55.5916,5.7665 z"
+       id="path3549-3-7-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-1"
+       width="560.97729"
+       height="271.86139"
+       x="119.13635"
+       y="1593.1943"
+       ry="51.769714"
+       rx="51.769714" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4632-8-6-6"
+       width="612.30688"
+       height="157.48463"
+       x="834.62451"
+       y="2094.2979"
+       ry="39.894695"
+       rx="56.506653" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1025.7306,2187.7672 c -6.9698,18.4071 -46.28072,19.9506 -60.75215,16.2091 29.17109,20.5918 28.15406,33.3858 -11.4519,35.3724 66.41995,37.1119 12.14239,31.496 1.43652,40.9065 52.15213,12.7896 28.81872,28.7065 19.53392,44.5515 59.94341,0.5443 40.32661,25.9434 42.85331,46.1721 5.0817,-9.4922 29.2239,-38.3907 30.6762,-6.2142 39.6493,-30.6981 87.4056,-50.5277 91.1976,3.1943 15.9753,-27.0261 31.9027,-38.4484 30.6766,-6.2142 39.582,-41.9245 87.0093,-36.4257 126.1777,-5.3922 -20.2465,-23.3116 -4.7529,-41.6858 25.6504,-37.1302 -4.2629,-12.5422 6.0026,-21.1637 29.1854,-26.2835 -30.8063,-7.5763 -36.4837,-15.3912 20.7165,-23.8012 -43.526,-0.8135 -84.1144,-2.4802 -33.0488,-31.1607 -16.0208,-0.694 -54.0314,23.2379 -36.3094,-46.7992 -27.5484,22.4213 -56.9401,34.7962 -93.8002,-12.1708 -17.4439,23.4638 -47.7001,35.0746 -60.8631,5.7665 -4.731,12.4946 -24.3485,17.1936 -41.002,17.7634 -6.4401,-4.9631 -13.0821,-11.7041 -20.0136,-20.5361 -11.3285,18.5447 -28.275,31.069 -60.863,5.7665 z"
+       id="path3549-3-7-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2012.1846,2236.4354 c -2.3427,-33.3777 4.9616,-30.4601 8.3088,-36.0441 -4.7962,-27.8694 1.8773,-60.2411 31.8147,-73.3715 7.1308,-21.8074 31.5522,-38.0064 48.4827,-19.9975 11.8293,-16.9028 30.6791,-16.7272 38.441,-3.2455 8.3298,-14.8403 19.8201,1.8611 20.8665,5.3069 10.4228,-7.9487 25.0315,-2.1134 30.7765,6.2371 13.8461,-11.7717 43.3685,6.9413 42.6483,31.742 16.0364,18.0845 16.9515,39.2129 12.1213,51.9906 12.3081,14.865 18.8579,83.2302 -15.8546,89.6952 -9.6604,25.5554 -36.0984,36.6231 -48.4063,21.758 -16.7569,6.7163 -27.2559,12.904 -31.4418,-0.8796 -8.3297,14.8403 -29.8614,14.8911 -23.7771,-10.3625 -10.3611,16.6762 -22.7516,12.3891 -32.4315,2.0923 -16.0827,19.5442 -36.9203,12.2103 -36.7266,-7.0029 -22.7396,7.9819 -26.6032,-22.0028 -25.5492,-33.2056 -3.6653,-1.7115 -12.4419,-2.9909 -19.2727,-24.7129 z"
+       id="path4043"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2117.8728,2343.3531 c 17.15,-17.4058 44.9166,-16.6147 42.4665,7.1205 12.25,10.2853 6.5333,39.5587 -41.6499,22.1529 -18.7831,-8.703 -25.3164,-26.1088 -0.8166,-29.2734 z"
+       id="path4051"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2153.1219,2393.2075 c 4.5827,-1.0212 8.3975,1.1598 11.3791,4.1414 7.7521,-4.1742 29.8159,11.3301 -0.5963,19.6785 -11.33,2.9816 -22.6601,-9.5411 -14.3116,-14.9079 -3.2186,-3.2186 -1.0539,-7.8909 3.5288,-8.912 z"
+       id="path4059"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zcccz" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <g
+       id="g3474"
+       transform="matrix(0.91301192,0,0,0.91301192,60.583304,16.125144)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text4246-2-3-1-3-9-3-7-6"
+         y="217.19351"
+         x="385.20737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.14033699px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="217.19351"
+           x="385.20737"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.52626038px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+           sodipodi:role="line"
+           id="tspan4165">생명을 재활시키는 마법</tspan><tspan
+           y="292.71979"
+           x="385.20737"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.52626038px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+           sodipodi:role="line"
+           id="tspan3489">&quot;좀비아&quot;를 숙달하신 분입니다.</tspan><tspan
+           y="368.24603"
+           x="385.20737"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.52626038px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+           sodipodi:role="line"
+           id="tspan3493">만나서 반갑습니다...</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.69552994px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.03159428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="483.89099"
+       y="443.33142"
+       id="text4246-2-3-1-3-9-3-7-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.93835319,0,-0.12334078,1.0656968,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.85824585px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:3.03159428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="483.89099"
+         y="443.33142"
+         id="tspan4814-3">고수!</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4531"
+       id="use4615"
+       transform="translate(-829.209,-2105.655)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4533"
+       id="use4617"
+       transform="matrix(0.79456111,0,0,0.79456111,-650.5093,-1402.1715)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4537"
+       id="use4619"
+       transform="matrix(0.79814913,-0.08198379,0.08198379,0.79814913,-1028.6471,-1215.036)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4541"
+       id="use4621"
+       transform="matrix(0.90154637,-0.0150643,0.01480904,0.88627,95.218457,-1443.95)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4623"
+       id="use4625"
+       transform="translate(-142.54958,58.596671)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4543"
+       id="use4623"
+       transform="translate(213.80644,-1758.8492)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.54966545px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2073.0081"
+       y="195.99486"
+       id="text4246-2-3-1-3-9-3-7-6-5"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.06123734px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2073.0081"
+         y="195.99486"
+         id="tspan3487">이 &quot;히피아&quot;의 마녀 앞에선</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.06123734px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2073.0081"
+         y="258.05609"
+         id="tspan3510">어떤 동식물에도</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.06123734px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2073.0081"
+         y="320.11734"
+         id="tspan3470">비밀은 없습니다!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.06123734px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2073.0081"
+         y="382.17856"
+         id="tspan4201">환영합니다...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.61976433px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.01643014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2267.9351"
+       y="443.19479"
+       id="text4246-2-3-1-3-9-3-7-9-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.93835319,0,-0.12334078,1.0656968,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.0741272px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:2.01643014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="2267.9351"
+         y="443.19479"
+         id="tspan4814-3-3"> 카밀레!</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4617"
+       id="use4633"
+       transform="matrix(0.99489199,-0.10094516,0.10094516,0.99489199,1011.3205,86.175619)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4615"
+       id="use4635"
+       transform="matrix(1.1838394,0,0,1.3004419,1240.6281,-150.25014)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4617"
+       id="use4637"
+       transform="matrix(0.88647762,-0.08530562,0.08668772,0.90084017,1008.5331,349.52821)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4623"
+       id="use4627"
+       transform="translate(908.78917,-92.733529)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4621"
+       id="use4631"
+       transform="translate(1165.6643,56.855347)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4625"
+       id="use4629"
+       transform="translate(1242.489,12.944936)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.40176582px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="394.72977"
+       y="1661.8197"
+       id="text4246-2-3-1-3-9-3-7-6-5-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.50662231px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="394.72977"
+         y="1661.8197"
+         id="tspan4189">그리고, 코모나의 첨단</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.50662231px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="394.72977"
+         y="1723.3263"
+         id="tspan3478">기술을 이용하여,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.50662231px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="394.72977"
+         y="1784.833"
+         id="tspan4197">이곳에서 여러분께 세계</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.50662231px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="403.31906"
+         y="1846.3396"
+         id="tspan3480">최초로 선보입니다... </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       x="787.65729"
+       y="1584.5073"
+       id="text4580"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.0097713,-0.61228319,-0.18641867,1.6224367,-31.341404,1082.6027)"><tspan
+         sodipodi:role="line"
+         id="tspan4582"
+         x="787.65729"
+         y="1584.5073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff">펄럭!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.62797928px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1139.6113"
+       y="2154.25"
+       id="text4246-2-3-1-3-9-3-7-6-5-4"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.10491943px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1139.6113"
+         y="2154.25"
+         id="tspan4205">...수면 아래서 강력한</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.10491943px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1139.6113"
+         y="2220.355"
+         id="tspan3518">&quot;아쿠아&quot;의 마법을 터득한 마녀!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.10491943px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="1139.6113"
+         y="2286.46"
+         id="tspan4691" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.47970963px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.39246237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1504.8413"
+       y="2171.0342"
+       id="text4246-2-3-1-3-9-3-7-9-5-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.93835319,0,-0.12334078,1.0656968,0,0)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.79891968px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:1.39246237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1504.8413"
+         y="2171.0342"
+         id="tspan4814-3-3-7"> 스피룰리나!</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4531"
+       id="use4539"
+       transform="matrix(0.99766312,0.06832494,-0.06832494,0.99766312,95.605212,11.288062)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4531"
+       id="use4543"
+       transform="matrix(0.88115496,0.04946838,-0.05305626,0.82156758,195.75521,389.14199)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4580-1-7-3-6"
+       id="use4531"
+       transform="matrix(0.77520109,0,0,0.77350724,1118.6134,2753.0811)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4531"
+       id="use4533"
+       transform="matrix(1.3943222,0.02342648,-0.0210694,1.2540314,-239.60492,-786.84032)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4533"
+       id="use4535"
+       transform="matrix(0.80574379,0.02924242,-0.03634386,0.7290677,549.01074,760.34106)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4535"
+       id="use4537"
+       transform="matrix(1.3677664,-0.00784959,0.05996307,1.2741545,-704.28183,-765.83487)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4580-1-7-3-6"
+       id="use4560"
+       transform="matrix(0.99863528,0.05222618,-0.05222618,0.99863528,1332.977,2552.5961)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4580-1-7-3-6"
+       id="use4541"
+       transform="matrix(0.74452441,0.02853948,-0.03939499,0.64274603,1208.3008,2659.8563)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.08638954px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2138.3223"
+       y="2167.8413"
+       id="text4246-2-3-1-3-9-3-7-6-5-4-7"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.32395935px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2146.7463"
+         y="2167.8413"
+         id="tspan3501">아쿠아?! </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.32395935px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2138.3223"
+         y="2228.1653"
+         id="tspan3505">여기에?!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.32395935px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
+         x="2138.3223"
+         y="2288.4893"
+         id="tspan4749">멋지다!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1338.118"
+       y="2275.6814"
+       id="text3520"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3522"
+         x="1338.118"
+         y="2275.6814" /></text>
+  </g>
+</svg>

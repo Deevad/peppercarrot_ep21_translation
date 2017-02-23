@@ -27,6 +27,8 @@ License
 * Slovak: talime
 * Swedish: Mikael Olofsson
 
+* Korean: Jihoon Kim
+
 ## Artwork:
 
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
