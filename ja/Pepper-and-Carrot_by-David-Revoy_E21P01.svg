@@ -218,15 +218,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1827"
-     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46"
-     inkscape:cx="1250.1651"
-     inkscape:cy="1536.2326"
-     inkscape:window-x="85"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.30245747"
+     inkscape:cx="860.21391"
+     inkscape:cy="1498.5062"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -235,13 +235,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Rumiko\Documents\GitHub\peppercarrot_ep21_translation\ja\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ja/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -267,32 +267,44 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.14248527px;line-height:127%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4213);writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.14248657px;line-height:126.99999809%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4213)"
        x="-447.29675"
        y="2872.5061"
        id="text4246"
        sodipodi:linespacing="127%"
-       transform="matrix(0.77575846,-0.4011973,0.44458918,0.65773316,79.20463,398.25935)"><tspan
+       transform="matrix(0.90395446,-0.46749614,0.51805864,0.76642519,-78.406142,60.831462)"><tspan
          sodipodi:role="line"
-         id="tspan4218">大好評にお答えして</tspan><tspan
+         id="tspan4218"
+         x="-447.29675"
+         y="2872.5061">大好評にお答えして</tspan><tspan
          sodipodi:role="line"
-         id="tspan4220">魔法コンテストを</tspan><tspan
+         id="tspan4220"
+         x="-447.29675"
+         y="2923.4871">魔法コンテストを</tspan><tspan
          sodipodi:role="line"
-         id="tspan4222">コモナの街で再び開催</tspan></text>
+         id="tspan4222"
+         x="-447.29675"
+         y="2974.468">コモナの街で再び開催</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:48.65081906px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4281);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';writing-mode:lr;"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.65081787px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4281)"
        x="1011.1572"
        y="3962.4595"
        id="text4246-5"
        sodipodi:linespacing="125%"
-       transform="matrix(0.87010969,-0.47782893,0.0892411,0.8023333,216.81507,413.49041)"><tspan
+       transform="matrix(0.97282779,-0.53005973,0.09977618,0.8900352,73.913115,120.34392)"><tspan
          sodipodi:role="line"
-         id="tspan4232">優勝賞金 50 000Ko</tspan><tspan
+         id="tspan4232"
+         x="1011.1572"
+         y="3962.4595">優勝賞金 50 000Ko</tspan><tspan
          sodipodi:role="line"
-         id="tspan4234"></tspan><tspan
+         id="tspan4234"
+         x="1011.1572"
+         y="4023.2729" /><tspan
          sodipodi:role="line"
-         id="tspan4236"></tspan></text>
+         id="tspan4236"
+         x="1011.1572"
+         y="4084.0864" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:42.49937644px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4297);writing-mode:lr;"
@@ -322,7 +334,7 @@
        y="0"
        xlink:href="#text4246"
        id="use4165"
-       transform="matrix(0.03808114,0.02051887,-0.02936521,0.05644029,1179.7075,1340.9329)"
+       transform="matrix(0.03808114,0.02051887,-0.02936521,0.05644029,1180.5398,1342.2768)"
        width="2481"
        height="3503"
        style="filter:url(#filter4387)" />
@@ -331,20 +343,22 @@
        y="0"
        xlink:href="#text4246-5"
        id="use4167"
-       transform="matrix(0.02650321,0.01332584,-0.01943867,0.03590939,1176.9534,1394.1925)"
+       transform="matrix(0.02650321,0.01332584,-0.01943867,0.03590939,1177.2206,1394.9276)"
        width="100%"
        height="100%"
        style="filter:url(#filter4675)" />
     <text
        xml:space="preserve"
-       style="font-size:39.70409914px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:127%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;opacity:0.82599996;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:3.34918165;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4410);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:39.70409775px;line-height:126.99999809%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c, Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.82599996;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:1.91003686;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4410)"
        x="-2145.6782"
        y="2491.1904"
        id="text4246-3"
        sodipodi:linespacing="127%"
-       transform="matrix(0.48917773,-0.75295085,0.81417144,0.33172642,-12.274723,427.43356)"><tspan
+       transform="matrix(0.71541792,-1.1577319,1.1907182,0.51006018,-457.08751,-883.38113)"><tspan
          sodipodi:role="line"
-         id="tspan4224">特別招待</tspan></text>
+         id="tspan4224"
+         x="-2145.6782"
+         y="2491.1904">特別招待</tspan></text>
     <use
        x="0"
        y="0"
@@ -356,17 +370,17 @@
        style="filter:url(#filter4671)" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.82599996;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c74b40;stroke-width:10.54899979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4274);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 786.52585,3038.7303 61.85775,32.434 273.8254,-406.9964 -58.8537,-29.6815 z"
+       d="m 873.28676,2900.2945 55.6122,45.3724 118.57674,-173.3245 -49.35686,-34.779 z"
        id="path4200"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       transform="matrix(0.54779188,-0.01691627,0.01869333,0.4751591,379.44068,1525.1639)" />
+       transform="matrix(1.3244013,-0.23421845,0.1908431,1.0883897,-859.57743,-0.80690122)" />
     <use
        x="0"
        y="0"
        xlink:href="#text4246"
        id="use3385"
-       transform="matrix(-0.25038927,0.14616664,0.22570412,0.31978695,-1.2207367,2161.0542)"
+       transform="matrix(-0.25038927,0.14616664,0.22570412,0.31978695,-6.2894573,2169.6083)"
        width="2481"
        height="3503"
        style="opacity:0.38000039;filter:url(#filter4333)" />
@@ -375,7 +389,7 @@
        y="0"
        xlink:href="#text4246-5"
        id="use3387"
-       transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-340.29834,2174.0719)"
+       transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-339.8227,2181.3089)"
        width="100%"
        height="100%"
        style="opacity:0.38000039;filter:url(#filter4329)" />
@@ -393,7 +407,7 @@
        y="0"
        xlink:href="#text4246-3"
        id="use3391"
-       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-40.97946,2191.0085)"
+       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-39.624374,2227.5212)"
        width="100%"
        height="100%"
        style="opacity:0.38000039;filter:url(#filter4325)" />
@@ -402,7 +416,7 @@
        y="0"
        xlink:href="#path4200"
        id="use3393"
-       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-42.10847,2189.4318)"
+       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-45.937908,2256.6847)"
        width="100%"
        height="100%"
        style="opacity:0.38000039;filter:url(#filter4321)" />
