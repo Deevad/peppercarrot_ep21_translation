@@ -18,6 +18,7 @@ License
 * Dutch: Midgard
 * English: Alex Gryson
 * French: David Revoy
+* German: colognella
 * Ido: Gilles-Philippe Morin
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
