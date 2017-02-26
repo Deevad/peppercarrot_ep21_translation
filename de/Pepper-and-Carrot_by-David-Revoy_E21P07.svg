@@ -609,9 +609,9 @@
      showgrid="false"
      inkscape:zoom="0.47489018"
      inkscape:cx="1246.4494"
-     inkscape:cy="801.42338"
-     inkscape:window-x="20"
-     inkscape:window-y="49"
+     inkscape:cy="2822.9434"
+     inkscape:window-x="40"
+     inkscape:window-y="92"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false" />
@@ -622,13 +622,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/Users/elya/Desktop/peppercarrot/peppercarrot_ep21_translation-master/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
+       sodipodi:absref="/Users/colognella/Desktop/peppercarrot/git/peppercarrot_ep21_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -862,7 +862,7 @@
          style="font-size:45px"
          x="1477.8523"
          y="643.4093"
-         id="tspan3561">ihr als Hauptgewinnerin des</tspan><tspan
+         id="tspan3561">ihr als Gewinnerin des</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1477.8523"
