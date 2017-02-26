@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 21: The Magic Contest
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -19,7 +19,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * German: colognella
-* Ido: Gilles-Philippe Morin
+* Ido: Gilles-Philippe Morin, Brian E. Drake
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
