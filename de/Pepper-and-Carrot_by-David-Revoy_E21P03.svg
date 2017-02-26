@@ -94,15 +94,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="811"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32959511"
-     inkscape:cx="1256.5126"
-     inkscape:cy="-358.24938"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:cx="1927.2103"
+     inkscape:cy="2611.5736"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -112,13 +112,13 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/Users/colognella/Desktop/peppercarrot/peppercarrot_ep21_translation-master/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
+	sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep21_The-Magic-Contest/lang/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -177,15 +177,15 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
        id="rect4632-8-6-1"
-       width="650.1568"
-       height="281.96689"
-       x="99.210876"
-       y="126.38309"
+       width="661.15338"
+       height="253.25735"
+       x="112.56064"
+       y="110.77068"
        ry="53.694073"
        rx="59.99963" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 848.7717,159.57175 c -29.08367,-1.69545 -58.86001,3.58696 -87.13887,-6.21584 l 18.45734,27.34019 c -11.48977,5.00436 -23.27027,-1.05558 -34.95213,-3.35858 l 9.48758,20.01673 c -27.19607,11.29348 -52.30005,4.0443 -78.41514,5.75744 l 18.41332,32.6687 c 26.41755,-6.61836 52.01205,-19.86267 79.35537,-19.02801 l -7.92133,-21.14275 c 9.52545,-1.80064 19.09608,-3.00826 28.8688,-1.56703 L 783.4046,169.01459 Z"
+       d="m 840.81043,173.57214 c -18.96883,-0.3432 -38.02307,5.4136 -56.89265,-2.01698 l 13.40918,23.07631 c -7.19762,4.8028 -15.16153,-0.0127 -22.8653,-1.56218 l 7.20397,17.05174 c -17.06541,10.88796 -33.74065,5.55623 -50.60443,8.06405 l 13.65876,27.71558 c 16.80407,-6.78875 32.72795,-19.31221 50.52206,-19.65042 l -6.24598,-18.09273 c 6.08968,-1.93803 12.23962,-3.36171 18.65905,-2.48787 l -8.78627,-21.33398 z"
        id="path4032"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
@@ -267,29 +267,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="423.59586"
-       y="194.71907"
+       x="437.96756"
+       y="167.52554"
        id="text4246-2-3-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:42.5px"
-         x="423.59586"
-         y="194.71907"
+         x="437.96756"
+         y="167.52554"
          id="tspan4085">Kraft meines Amtes als</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.5px"
-         x="423.59586"
-         y="247.84407"
+         x="437.96756"
+         y="220.65054"
          id="tspan3445">Bürgermeister von Komona</tspan><tspan
          sodipodi:role="line"
          style="font-size:42.5px"
-         x="431.06656"
-         y="300.96906"
+         x="445.43826"
+         y="273.77557"
          id="tspan3447">erkläre ich den Zweiten Großen </tspan><tspan
          sodipodi:role="line"
          style="font-size:42.5px"
-         x="423.59586"
-         y="354.09406"
+         x="437.96756"
+         y="326.90054"
          id="tspan3449">Zauberwettbewerb für eröffnet!</tspan></text>
     <use
        x="0"
