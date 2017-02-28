@@ -26,6 +26,7 @@ License
 * Korean: Jihoon Kim
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
+* Norwegian: Thomas Nordstrøm
 * Portuguese: Alexandre E. Almeida
 * Russian: gleki, Denis "uncle Night" Prisukhin
 * Slovak: talime
