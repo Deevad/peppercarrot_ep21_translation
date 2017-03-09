@@ -696,9 +696,9 @@
      inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3861678"
-     inkscape:cx="1717.981"
-     inkscape:cy="2501.2518"
+     inkscape:zoom="0.7723356"
+     inkscape:cx="702.38713"
+     inkscape:cy="3036.0851"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -711,11 +711,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep21_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -807,10 +807,10 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;enable-background:accumulate"
        id="rect4632-8-9"
        width="567.1665"
-       height="356.61194"
+       height="294.4628"
        x="109.33897"
        y="127.63114"
-       ry="78.066841"
+       ry="64.461609"
        rx="78.066841" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -850,31 +850,31 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.70530319px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="396.63898"
-       y="232.64439"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.68066025px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="392.69147"
+       y="208.84229"
        id="text4246-2-3-1-3-9-3-7-08"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="396.63898"
-         y="232.64439"
+         x="392.69147"
+         y="208.84229"
          id="tspan4338">그리고 이제, 화려한 &quot;마그마&quot;의</tspan><tspan
          sodipodi:role="line"
-         x="396.63898"
-         y="295.3497"
-         id="tspan3543">마법을 보여주겠다며</tspan><tspan
+         x="392.69147"
+         y="271.54758"
+         id="tspan3543">마법을 보여드리겠다며</tspan><tspan
          sodipodi:role="line"
-         x="396.63898"
-         y="358.05502"
+         x="392.69147"
+         y="334.2529"
          id="tspan3545">익명으로 참가하신 이 분을</tspan><tspan
          sodipodi:role="line"
          id="tspan3554"
-         x="405.39569"
-         y="420.76031">소개해볼 텐데요...  </tspan><tspan
+         x="401.44818"
+         y="396.95819"> 소개할 차례인데요...  </tspan><tspan
          sodipodi:role="line"
          id="tspan3556"
-         x="396.63898"
-         y="483.46561" /></text>
+         x="392.69147"
+         y="459.66351" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.60764122px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -906,16 +906,16 @@
          id="tspan4930-1" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94396973px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.26963395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       x="1826.2661"
-       y="330.60397"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94396973px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.26963401;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1828.387"
+       y="325.74414"
        id="text4246-2-3-1-3-9-3-7-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.93835319,0,-0.12334078,1.0656968,0,0)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.7898941px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:3.26963395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-         x="1826.2661"
-         y="330.60397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.7898941px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:3.26963401;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1828.387"
+         y="325.74414"
          id="tspan4814-3">사프란!</tspan></text>
     <text
        xml:space="preserve"
@@ -1141,17 +1141,17 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-2-3-8-7-6)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5fa5d3;stroke-width:0.28300845;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-2-3-8-7-6);"
        x="787.65729"
        y="1584.5073"
        id="text4580-5-0-6-2-8-5"
        sodipodi:linespacing="125%"
-       transform="matrix(2.1115424,-0.31312279,-0.71292751,2.3980304,-372.93802,-217.14251)"><tspan
+       transform="matrix(2.363198,-0.35044106,-0.79789488,2.6838299,-398.84165,-631.76633)"><tspan
          sodipodi:role="line"
          id="tspan4582-6-9-1-3-9-5"
          x="787.65729"
          y="1584.5073"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;stroke:#5f8dd3">지이잉!</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;stroke:#5fa5d3;stroke-width:0.28300845;">지잉!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.71657181px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"

@@ -77,8 +77,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.50528693"
-     inkscape:cx="1358.9826"
-     inkscape:cy="377.59125"
+     inkscape:cx="1069.3024"
+     inkscape:cy="4297.758"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -101,13 +101,13 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep21_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481"
        height="5000"
-       width="2481" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -159,7 +159,7 @@
        xml:space="preserve"><tspan
          id="tspan4153"
          y="-773.54248"
-         x="1244.4073"
+         x="1245.8047"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.00587463px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
          sodipodi:role="line">대사 수정: Craig Maloney, Jookia, Nicolas Artance, Valvin. </tspan></text>
     <text
@@ -190,12 +190,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.14139366px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#241c1c;fill-opacity:1;stroke:none"
        x="1241.0312"
-       y="-610.47345"
+       y="-607.67462"
        id="text4229"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="1241.0312"
-         y="-610.47345"
+         y="-607.67462"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.61116791px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#241c1c;stroke:none"
          id="tspan4169">소프트웨어: 리눅스 민트 18.1 XFCE에서 크리타 3.2.1, 잉크스케이프 0.91 사용</tspan></text>
     <text
@@ -233,20 +233,20 @@
          x="1243.6125"
          y="-402.03067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
-         id="tspan3382"></tspan><tspan
+         id="tspan3382" /><tspan
          sodipodi:role="line"
          x="1243.6125"
-         y="-362.03067"
+         y="-346.5795"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
-         id="tspan3368">후추와 당근은 후원자들의 도움으로 완전히 무료이고 오픈소스이며</tspan><tspan
+         id="tspan3368">후추와 당근은 독자들의 후원으로 완전히 무료이고 오픈소스이며</tspan><tspan
          sodipodi:role="line"
          x="1243.6125"
-         y="-322.03067"
+         y="-291.1283"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
          id="tspan3370">재정적 지원을 받고 있습니다.</tspan><tspan
          sodipodi:role="line"
          x="1243.6125"
-         y="-282.03067"
+         y="-235.67712"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.4511795px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#483e37"
          id="tspan3372">이번 화를 후원해 주신 816명에게 감사드립니다:</tspan></text>
   </g>

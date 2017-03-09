@@ -158,17 +158,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.44661478"
-     inkscape:cx="1314.9427"
-     inkscape:cy="1877.0449"
-     inkscape:window-x="0"
+     inkscape:zoom="0.31580434"
+     inkscape:cx="868.75241"
+     inkscape:cy="1074.6369"
+     inkscape:window-x="960"
      inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -177,11 +178,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep21_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -281,12 +282,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.78721237px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="684.49213"
          y="856.86841"
-         id="tspan4042">그래. 우리 카오사는</tspan><tspan
+         id="tspan4042">진짜다. 우리 카오사는</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.78721237px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="684.49213"
          y="912.65564"
-         id="tspan3418">저주를 하는 사람이지,</tspan><tspan
+         id="tspan3418">마법사지,</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.78721237px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="684.49213"
@@ -299,7 +300,7 @@
        y="1085.962"
        id="text4246-5"
        sodipodi:linespacing="125%"
-       transform="matrix(0.89223285,-0.26389253,0.30573648,1.0303571,2.2077183e-5,6.5627487e-5)"><tspan
+       transform="matrix(0.89832038,-0.24236176,0.2808723,1.0374109,19.435667,-32.818464)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00812149px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:3.39352751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1174.0292"
@@ -322,12 +323,12 @@
        y="1174.9954"
        id="text4246-5-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,2.2077183e-5,6.5627487e-5)"><tspan
+       transform="matrix(0.90128293,-0.2438893,0.18223745,1.0602156,2.2077183e-5,-82.285398)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4427948px;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#000000;stroke-width:0.70955449;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1294.5164"
          y="1174.9954"
-         id="tspan4222">새 경기장 오늘 개장</tspan></text>
+         id="tspan4222">새 경기장 오늘 문 열어</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202)"
@@ -335,12 +336,12 @@
        y="1300.7131"
        id="text4246-5-1-3"
        sodipodi:linespacing="125%"
-       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-7.2837579,-35.713954)"><tspan
+       transform="matrix(0.90128293,-0.29766095,0.18223745,1.0493431,-3.9251588,-32.915121)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
          y="1300.7131"
-         id="tspan4048">거주자들은 세금에 대한 우려 표명해 </tspan></text>
+         id="tspan4048">거주자들은 세금에 대한 우려 표명 </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78128052px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4202-2)"
@@ -348,7 +349,7 @@
        y="1300.7131"
        id="text4246-5-1-3-1"
        sodipodi:linespacing="125%"
-       transform="matrix(0.81172816,-0.30643117,0.16412967,0.92516231,125.17724,215.40246)"><tspan
+       transform="matrix(0.81172816,-0.26374388,0.16412967,0.93379359,130.77491,157.608)"><tspan
          sodipodi:role="line"
          x="1131.04"
          y="1300.7131"
@@ -378,7 +379,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"
          y="1300.7131"
-         id="tspan4196-6-8">현재 아가 80%의 영토를 차지해</tspan></text>
+         id="tspan4196-6-8">현재 아가 80%의 영토 점유 중</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.15627003px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4369-7)"
@@ -386,7 +387,7 @@
        y="1300.7131"
        id="text4246-5-1-3-6-1-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.45709154,0.19808295,0.12462083,0.91251868,299.48835,-366.52798)"><tspan
+       transform="matrix(0.52356456,0.19757789,0.14274395,0.91019199,197.50485,-362.91468)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.78135014px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#000000;stroke-width:0.49537376;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="1131.04"

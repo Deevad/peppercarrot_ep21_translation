@@ -711,16 +711,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.33579807"
-     inkscape:cx="1224.7073"
-     inkscape:cy="2355.1347"
-     inkscape:window-x="960"
+     inkscape:zoom="0.94978037"
+     inkscape:cx="713.54267"
+     inkscape:cy="949.09555"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="false" />
   <g
@@ -732,11 +732,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep21_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -780,14 +780,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccscccc" />
     <rect
-       rx="39.248905"
+       rx="43.351105"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect4632-7"
-       width="332.43106"
-       height="137.83736"
+       width="367.17593"
+       height="110.46261"
        x="634.64624"
        y="1185.652"
-       ry="35.768253" />
+       ry="28.664614" />
     <rect
        rx="70.464211"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -908,7 +908,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.72183228px;line-height:89.99999762%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:2.6839633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="907.92145"
          y="614.34668"
-         id="tspan3609">어서 이리 와!</tspan></text>
+         id="tspan3609">이리 와!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.54257774px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -963,13 +963,13 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.45944214px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="1483.7676"
-         y="669.74109"
+         y="676.82129"
          id="tspan3586">이분께는, 특별히 저희가</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.45944214px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="1483.7676"
-         y="731.1203"
-         id="tspan3594">직책을 마련해 두었습니다!</tspan></text>
+         y="745.28076"
+         id="tspan3594">직책을 마련해 두었는데요,</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.1727562px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4000001;stroke-miterlimit:4;stroke-dasharray:none"
@@ -993,31 +993,26 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.30687332px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="1312.999"
          y="964.75848"
-         id="tspan4012">저희는</tspan><tspan
+         id="tspan3619">이분은 저희</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.30687332px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="1321.0018"
          y="1022.0654"
-         id="tspan3619">이분을... </tspan></text>
+         id="tspan3531">대회의... </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.67149162px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="805.98907"
-       y="1244.1677"
+       x="829.15234"
+       y="1261.0137"
        id="text4246-2-3-1-3-9-3"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.51809692px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
-         x="805.98907"
-         y="1244.1677"
-         id="tspan3476">...<tspan
+         x="837.88287"
+         y="1261.0137"
+         id="tspan3521">...<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';stroke:#000000;stroke-width:1.96886992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan4323"> 심사위원</tspan>으로</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.51809692px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
-         x="814.7196"
-         y="1306.6858"
-         id="tspan3521">임명하겠습니다!  </tspan></text>
+   id="tspan4323"> 심사위원</tspan>입니다!  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.91569701;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-6-9-2-2-3);"
@@ -1073,7 +1068,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.62186813px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF'"
          x="956.2215"
          y="2464.113"
-         id="tspan3445">얼씨구.</tspan></text>
+         id="tspan3445">와아아.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90357065px;line-height:126.99999809%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4348)"
