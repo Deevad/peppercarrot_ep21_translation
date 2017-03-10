@@ -607,9 +607,9 @@
      inkscape:window-height="756"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.23744509"
-     inkscape:cx="2073.0628"
-     inkscape:cy="335.89905"
+     inkscape:zoom="0.33579807"
+     inkscape:cx="1945.716"
+     inkscape:cy="2586.7288"
      inkscape:window-x="11"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -624,11 +624,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep21_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -859,7 +859,7 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
          x="1477.8523"
          y="575.1593"
-         id="tspan3554">Vì được trúng giải đặc biệt</tspan><tspan
+         id="tspan3554">Vì đoạt giải đặc biệt</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
          x="1477.8523"
@@ -1087,7 +1087,7 @@
          id="tspan3562"
          x="3392.3933"
          y="3319.1055"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke-width:0.82200003;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'">XEM TIẾP TỤC...</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke-width:0.82200003;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'">CÒN TIẾP...</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10451"
@@ -1098,5 +1098,5 @@
            height="27.37475"
            x="475.89951"
            y="3149.2339" /></flowRegion><flowPara
-         id="flowPara10457"></flowPara></flowRoot>  </g>
+         id="flowPara10457" /></flowRoot>  </g>
 </svg>

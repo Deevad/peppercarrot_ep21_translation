@@ -696,9 +696,9 @@
      inkscape:window-height="752"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.27306187"
-     inkscape:cx="1702.5565"
-     inkscape:cy="2839.1426"
+     inkscape:zoom="0.54612374"
+     inkscape:cx="946.08588"
+     inkscape:cy="533.45163"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -711,11 +711,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep21_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -951,12 +951,12 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
          x="2132.2576"
          y="251.85292"
-         id="tspan9574">viên có một</tspan><tspan
+         id="tspan9576">viên có vấn đề</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
          x="2132.2576"
          y="308.10291"
-         id="tspan9576">vấn đề rồi!</tspan></text>
+         id="tspan11811">nhỏ rồi!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1-9-3-2-3-8-7-6-4-9);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
@@ -1150,7 +1150,7 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9-3-2-3-8-7-6)"
+       style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#5f8dd3;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1-9-3-2-3-8-7-6);font-family:Lavi;-inkscape-font-specification:Lavi"
        x="787.65729"
        y="1584.5073"
        id="text4580-5-0-6-2-8-5"
@@ -1161,8 +1161,8 @@
          x="787.65729"
          y="1584.5073"
          style="font-size:70px;fill:#ffffff;stroke:#5f8dd3"><tspan
-   style="-inkscape-font-specification:'Rounded M+ 1c Bold';font-family:'Rounded M+ 1c';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="tspan9452">Dzing</tspan>!</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold'"
+   id="tspan9452">Diiing</tspan>!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.11969565999999965px;line-height:125%;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.40000010000000019;stroke-miterlimit:4;stroke-dasharray:none"
