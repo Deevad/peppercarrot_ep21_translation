@@ -78,7 +78,7 @@
      showgrid="false"
      inkscape:zoom="0.50528693"
      inkscape:cx="1324.9226"
-     inkscape:cy="4277.5154"
+     inkscape:cy="4010.8881"
      inkscape:window-x="-5"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -101,13 +101,13 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep21_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E21P08.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481"
        height="5000"
-       width="2481" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -228,7 +228,7 @@
          x="1243.3711"
          y="-375.95468"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#483e37;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
-         id="tspan4166-5">Hạt Tiêu &amp;amp; Củ Đỏ hoàn toàn miễn phí,</tspan><tspan
+         id="tspan4166-5">Hạt Tiêu &amp; Củ Đỏ hoàn toàn miễn phí,</tspan><tspan
          sodipodi:role="line"
          x="1243.3711"
          y="-325.95468"
