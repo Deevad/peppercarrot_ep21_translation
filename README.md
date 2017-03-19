@@ -23,6 +23,8 @@ License
 
 * English: Alex Gryson
 
+* Finnish: Kari Lehto
+
 * French: David Revoy
 
 * German: colognella
