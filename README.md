@@ -13,25 +13,46 @@ License
 
 ## Translators and correctors:
 
+* Catalan: Juan José Segura
+
 * Chinese: Ran Zhuang
+
 * Czech: Kateřina Fleknová
+
 * Dutch: Midgard
+
 * English: Alex Gryson
+
 * French: David Revoy
+
 * German: colognella
+
 * Ido: Gilles-Philippe Morin, Brian E. Drake
+
 * Indonesian: Bonaventura Aditya Perdana
+
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
+
 * Japanese: guruguru
+
 * Korean: Jihoon Kim
+
 * Lojban: Gleki Arxokuna
+
 * Mexicano: RJ Quiralta
+
 * Norwegian: Thomas Nordstrøm
+
 * Polish: Sölve Svartskogen
+
 * Portuguese: Alexandre E. Almeida
+
 * Russian: gleki, Denis "uncle Night" Prisukhin
+
 * Slovak: talime
+
 * Swedish: Mikael Olofsson
+
 
 ## Artwork:
 
