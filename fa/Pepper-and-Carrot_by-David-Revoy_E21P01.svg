@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E21P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4387"
+       x="-0.052299153"
+       width="1.1045983"
+       y="-0.17163482"
+       height="1.3432696">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.561532"
+         id="feGaussianBlur4389" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4671"
+       x="-0.050924336"
+       width="1.1018487"
+       y="-0.081275596"
+       height="1.1625512">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.8254838"
+         id="feGaussianBlur4673" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4675"
+       x="-0.0417924"
+       width="1.0835848"
+       y="-0.13528684"
+       height="1.2705737">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.094889"
+         id="feGaussianBlur4677" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Roughen"
+       id="filter4274">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="4"
+         seed="131"
+         baseFrequency="0.14999999999999999 0.14999999999999999"
+         result="turbulence"
+         id="feTurbulence4276" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="7.4000000000000004"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap4278" />
+      <feGaussianBlur
+         stdDeviation="1"
+         id="feGaussianBlur4376" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4410"
+       x="-0.0026855623"
+       width="1.0053711"
+       y="-0.0021349066"
+       height="1.0042698">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3391804"
+         id="feGaussianBlur4412" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4317"
+       x="-0.021747756"
+       width="1.0434955"
+       y="-0.073210012"
+       height="1.14642">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934667"
+         id="feGaussianBlur4319" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4321"
+       x="-0.023570259"
+       width="1.0471405"
+       y="-0.052974464"
+       height="1.1059489">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934668"
+         id="feGaussianBlur4323" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4325"
+       x="-0.027174319"
+       width="1.0543486"
+       y="-0.067458258"
+       height="1.1349165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934668"
+         id="feGaussianBlur4327" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4329"
+       x="-0.017301678"
+       width="1.0346034"
+       y="-0.40235311"
+       height="1.8047062">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934667"
+         id="feGaussianBlur4331" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4333"
+       x="-0.020153347"
+       width="1.0403067"
+       y="-0.094785321"
+       height="1.1895706">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0934668"
+         id="feGaussianBlur4335" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4213"
+       x="-0.0010298714"
+       width="1.0020597"
+       y="-0.0014578935"
+       height="1.0029158">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.24308766"
+         id="feGaussianBlur4215" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4281"
+       x="-0.0010201488"
+       width="1.0020403"
+       y="-0.0014115646"
+       height="1.0028231">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22294099"
+         id="feGaussianBlur4283" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4297"
+       x="-0.0011345409"
+       width="1.0022691"
+       y="-0.0012890663"
+       height="1.0025781">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.24012697"
+         id="feGaussianBlur4299" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.63134153"
+     inkscape:cx="842.33686"
+     inkscape:cy="841.16385"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 21\peppercarrot_ep21_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E21P01.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 1930.2424,3273.7071 c 2.1923,-41.795 14.4283,-110.3527 203.0066,-100.7502 178.7982,9.1049 220.4027,17.8685 218.229,107.8496 -2.3816,98.5898 -85.4127,96.2396 -211.3055,103.1639 -129.7818,7.1385 -211.9443,-50.1936 -209.9301,-110.2633 z"
+       id="path3280-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 2196.4143,3182.4188 c 26.5819,-31.8748 16.5385,-82.124 4.2645,-112.193 23.6156,30.5633 34.1422,61.98 22.5076,112.0196 -24.3699,104.812 -36.6997,109.1997 -36.6997,109.1997 z"
+       id="path4064"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.76312065px;line-height:120.00000477%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4213)"
+       x="-447.29675"
+       y="2872.5061"
+       id="text4246"
+       sodipodi:linespacing="120%"
+       transform="matrix(0.77575846,-0.4011973,0.44458918,0.65773316,57.20463,384.25935)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.14243317px;line-height:120.00000477%;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:1.14692664;stroke-opacity:1"
+         x="-447.29675"
+         y="2872.5061"
+         id="tspan4252">بنابر درخواست همگان</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.14243317px;line-height:120.00000477%;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:1.14692664;stroke-opacity:1"
+         x="-447.29675"
+         y="2920.677"
+         id="tspan4170">شهر کومونا برگزار می کند</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96.40583038px;line-height:120.00000477%;font-family:Midan;-inkscape-font-specification:'Midan Heavy';stroke:none;stroke-width:1.14692664;stroke-opacity:1"
+         x="-447.29675"
+         y="3007.4285"
+         id="tspan4172">مسابقه جادو</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.73022079px;line-height:125%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4281)"
+       x="1011.1572"
+       y="3962.4595"
+       id="text4246-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.87010969,-0.47782893,0.0892411,0.8023333,212.81507,411.49041)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.71279907px;font-family:Midan;-inkscape-font-specification:'Midan Heavy';stroke:none;stroke-width:3.08491373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         x="1011.1572"
+         y="3962.4595"
+         id="tspan4217">جایزه بزرگ 50000کو</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.65110016px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:3.08491373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1011.1572"
+         y="4049.6006"
+         id="tspan4207" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.65110016px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:3.08491373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="1011.1572"
+         y="4136.7417"
+         id="tspan4209" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4297)"
+       x="-671.81989"
+       y="3812.2869"
+       id="text4246-5-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.89518501,-0.50809499,0.51498719,0.69059179,137.96583,190.73385)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.5px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="3812.2869"
+         id="tspan4213-6">برای شکفت انگیز ترین نمایش جادویی!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="3856.4834"
+         id="tspan4287">هزینه وروردی: 150کو</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="3893.9834"
+         id="tspan4215-8">میدان مسابقات جدید و حفاظت شده</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="3931.4834"
+         id="tspan4292">کومونا</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="3968.9834"
+         id="tspan4217-7">روز آذر، دهم روز ماه</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="4006.4834"
+         id="tspan4207-4" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Midan;-inkscape-font-specification:Midan;stroke:#000000;stroke-width:0.73191088;stroke-opacity:1"
+         x="-671.81989"
+         y="4043.9834"
+         id="tspan4209-9" /></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246"
+       id="use4165"
+       transform="matrix(0.03808114,0.02051887,-0.02936521,0.05644029,1180.1348,1342.1742)"
+       width="2481"
+       height="3503"
+       style="filter:url(#filter4387)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-5"
+       id="use4167"
+       transform="matrix(0.02650321,0.01332584,-0.01943867,0.03590939,1177.0205,1394.3177)"
+       width="100%"
+       height="100%"
+       style="filter:url(#filter4675)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.70375061px;line-height:126.99999809%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.82599996;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:3.34918165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4410)"
+       x="-2145.6782"
+       y="2491.1904"
+       id="text4246-3"
+       sodipodi:linespacing="127%"
+       transform="matrix(0.48917773,-0.75295085,0.81417144,0.33172642,-18.274723,429.43356)"><tspan
+         sodipodi:role="line"
+         id="tspan3439"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.78503799px;font-family:Midan;-inkscape-font-specification:Midan;fill:#c74b40;fill-opacity:1;stroke:#c74b40;stroke-width:3.34918165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-2145.6782"
+         y="2491.1904">دعـــــوت نامه اختصــــــاصی</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-5-1"
+       id="use4169"
+       transform="matrix(0.025427,0.01553246,-0.02236044,0.03660455,1191.2538,1388.8319)"
+       width="100%"
+       height="100%"
+       style="filter:url(#filter4671)" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.82599996;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#c74b40;stroke-width:10.54899979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4274);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 786.52585,3038.7303 61.85775,32.434 273.8254,-406.9964 -58.8537,-29.6815 z"
+       id="path4200"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       transform="matrix(0.89137522,-0.03092786,0.03041807,0.86872899,13.739465,422.27169)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246"
+       id="use3385"
+       transform="matrix(-0.25038927,0.14616664,0.22570412,0.31978695,-3.5694428,2168.7467)"
+       width="2481"
+       height="3503"
+       style="opacity:0.38000039;filter:url(#filter4333)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-5"
+       id="use3387"
+       transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-340.42039,2175.3407)"
+       width="100%"
+       height="100%"
+       style="opacity:0.38000039;filter:url(#filter4329)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-5-1"
+       id="use3389"
+       transform="matrix(-0.1943967,0.16808535,0.32776451,0.29820066,-356.76386,2170.9008)"
+       width="100%"
+       height="100%"
+       style="opacity:0.38000039;filter:url(#filter4317)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text4246-3"
+       id="use3391"
+       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-42.903947,2191.4207)"
+       width="100%"
+       height="100%"
+       style="opacity:0.38000039;filter:url(#filter4325)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4200"
+       id="use3393"
+       transform="matrix(-0.23623461,0.16808535,0.25353976,0.29820066,-42.10847,2189.4318)"
+       width="100%"
+       height="100%"
+       style="opacity:0.38000039;filter:url(#filter4321)" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect3395"
+       width="244.84836"
+       height="56.07214"
+       x="270.08081"
+       y="3403.9392"
+       rx="51.769699"
+       ry="51.769699" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="2143.687"
+       y="3227.6572"
+       id="text4246-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan"
+         x="2143.687"
+         y="3227.6572"
+         id="tspan4163">من آمادم!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan"
+         x="2143.687"
+         y="3287.6572"
+         id="tspan4204">زود باش هویج!</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:100%;font-family:Midan;-inkscape-font-specification:Midan"
+         x="2143.687"
+         y="3347.6572"
+         id="tspan4206">بیا بریم.</tspan></text>
+  </g>
+</svg>
